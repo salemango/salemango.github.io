@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 208.1">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #6d6e71;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-size: 142.65px;
+      }
+
+      .cls-5, .cls-6 {
+        font-family: Georgia, Georgia;
+      }
+
+      .cls-2 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6 {
+        fill: #00aeef;
+        font-size: 106.06px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-3" d="M56.78,64.96v145.15h127.55V64.96H56.78ZM97.01,125.48c-.73.45-1.47.85-2.21,1.24l-4.19-6.29c1.04-1.01,1.94-2.16,2.67-3.48,1.06-1.92,1.81-4.21,2.27-6.87.19-1.13.28-2.25.28-3.37l.61.22,8.1,11.97c-2.02,2.53-4.52,4.73-7.52,6.57Z"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-1" width="200" height="200"/>
+  <text class="cls-2" transform="translate(49.98 98.11)"><tspan x="0" y="0">S</tspan></text>
+  <g>
+    <text class="cls-6" transform="translate(79.24 176.79) rotate(-13.18)"><tspan x="0" y="0">M</tspan></text>
+    <text class="cls-5" transform="translate(32.07 120.95) rotate(9.71)"><tspan x="0" y="0">S</tspan></text>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(79.24 176.79) rotate(-13.18)"><tspan x="0" y="0">M</tspan></text>
+    </g>
+  </g>
+  <polyline class="cls-4" points="34.5 67.5 5.5 101.5 32.07 136.59"/>
+  <polyline class="cls-4" points="163.5 67.5 192.5 101.5 165.93 136.59"/>
+</svg>
