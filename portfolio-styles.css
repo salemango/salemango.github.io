@@ -1,0 +1,649 @@
+/* Color Palette: 
+Far Background: #1A1A1A
+Near Background: #090909
+Section Background: #000000
+Main Text: #ffffff
+Accent Text: #A5A5A5
+Accent Color: #003262\
+Accent 2: #0066BA */
+
+
+/* CSS Reset */
+html, body, section, img, h1, h2, h3, h4, p, button, a, ul, li, picture {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+img, picture {
+    width: 100%;
+}
+
+/* General styles */
+body {
+    background-color: #1a1a1a; /* 'Far background' */
+    font-family: 'Inria Serif', Arial, Helvetica, sans-serif; /* Custom font */
+    font-size: 15pt; /* Default font size for phones device */
+    color: #fff; /* Default color */
+    scrollbar-color: #090909;
+}
+
+#near-background { /* This is the second/near background of the page. */
+    background-color: #090909;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0, .5); /* Creates a box shadow with 50% opacity */
+    margin-top: 20%;
+    padding-bottom: 2%;
+}
+
+/* Scrollbar styling */
+
+::-webkit-scrollbar {
+    background: #090909;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #a5a5a5;
+}
+
+/* Device specific no-displays */
+.no-phones {
+    display: none;
+}
+
+/* Header styles */
+header {
+    background-color: #000;
+    border: 1px solid #a5a5a5;
+    margin: 0% 5%;
+    transform: translateY(-50%); /* Moves the box up by half its height, vertically centering it on the near background top line */
+}
+
+header h1 {
+    font-size: 28pt; /* Largest font size on phones */
+    text-transform: uppercase;
+    text-align: center;
+    padding: 5%;
+}
+
+/* Nav styles */
+nav {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    padding: 0;
+    transform: translateY(50%);
+}
+
+nav ul a {
+    padding: 0;
+}
+
+nav.phones-only ul li img {
+    background-color: #003262;
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    border: 1px solid #a5a5a5;
+    cursor: pointer;
+}
+
+nav.phones-only ul li img:hover {
+    transform: scale(110%);
+    transition: .5s;
+}
+
+/* Section header styles */
+
+h2 {
+    font-size: 20pt; /* H2 size on phones */
+    text-align: center;
+    text-transform: uppercase;
+    margin: 5% auto;
+}
+
+/* About me styles */
+
+/* Portrait styling */
+
+picture img {
+    margin: 0 auto;
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+}
+
+/* Text styling */
+#about-me h3 { /* Subheadings */
+    font-size: 18pt;
+    color: #a5a5a5;
+    text-transform: uppercase;
+    margin-top: 5%;
+    text-align: center;
+}
+
+#about-me p { /* Paragraphs */
+    font-size: 12pt;
+    margin: 0 5%;
+    background-color: #000;
+    border: 1px solid #003262;
+    padding: 5%;
+    text-align: center;
+}
+
+/* Portfolio styles */
+
+#portfolio > section { /* General section styles */
+    background-color: #000;
+    border: 1px solid #003262;
+    margin: 2% 7%;
+    padding: 5%;
+}
+
+/* Portfolio images */
+.project-images {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;
+    grid-gap: 2%;
+}
+
+.project-image-1 {
+    grid-column: 1 / span 2;
+    grid-row: 1 / span 2;
+}
+
+/* Portfolio text cards */
+.project-info {
+    background: black;
+}
+
+.project-info h3 {
+    font-size: 20pt;
+    margin-top: 10%;
+    text-align: left;
+}
+
+.project-info h4 {
+    font-size: 16pt;
+    text-align: right;
+    margin-bottom: 10%;
+}
+
+.project-info ul {
+    font-size: 12pt;
+    padding-left: 5%;
+    color: #a5a5a5;
+}
+
+.project-info li {
+    margin: 2% 0;
+}
+
+.project-info span {
+    color: #ffffff;
+}
+
+.project-info button {
+    background-color: #003262;
+    color: #fff;
+    text-align: right;
+    padding: 2%;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: 0;
+    display: block;
+    cursor: pointer;
+}
+
+.project-info button a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 15pt;
+}
+
+/* Portfolio divider styling */
+img.project-divider {
+    width: 15vw;
+    height: 15vw;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Contact me section styling */
+#contact-me {
+    background-color: #000;
+    border: 1px solid #003262;
+    padding: 5%;
+    margin: 0 5%;
+    margin-bottom: 15%;
+}
+
+#contact-me h4 {
+    font-size: 16pt;
+    text-align: center;
+    font-style: italic;
+}
+
+#contact-me button {
+    background-color: #003262;
+    color: white;
+    display: block;
+    margin: 1% auto;
+    padding: 2%;
+}
+
+#contact-me button a {
+    color: #fff;
+    font-size: 18pt;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+/* Footer styles */
+footer {
+    background-color: #000;
+    padding: 2%;
+}
+
+footer h3 {
+    font-size: 20pt; 
+    text-align: center;
+    text-transform: uppercase;
+    margin: 1% auto;
+}
+
+#footer-grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 0 auto;
+    align-items: center;
+    justify-items: center;
+}
+
+footer img {
+    width: 40vw;
+}
+
+@media screen and (max-width: 365px) { /* For very small screens */
+    
+    /* header {
+    } */
+
+    header h1 {
+        font-size: 28pt;
+        padding: 5% 2%;
+    }
+
+    #contact-me h4 {
+        font-size: 14pt;
+    }
+    
+}
+
+@media screen and (min-width: 760px) { /* Tablet and small screen sizes */
+    
+    /* General styles */
+    #near-background {
+        margin: 15% 5%;
+        margin-bottom: 5%;
+    }
+
+    /* Device specific no-displays */
+    .no-phones {
+        display: initial;
+    }
+    
+    .phones-only {
+        display: none;
+    }
+    
+    /* Header styles */
+    header {
+        margin: 2% 10%;
+    }
+
+    header h1 {
+        font-size: 40pt;
+        padding: 1%;
+    }
+
+    /* Nav styles */
+    nav.no-phones {
+        margin: 0;
+        display: block;
+        padding: 0;
+    }    
+
+    nav ul {
+        grid-gap: 2%;
+        padding: 0;
+    }
+    
+    nav ul li {
+        background-color: #003262;
+        text-transform: uppercase;
+        padding: 10px 20px;
+        border: 1px solid #a5a5a5;
+        font-size: 17pt;
+        cursor: pointer;
+    }
+
+    nav ul li a {
+        font-weight: normal;
+        color: #fff;
+        text-decoration: none;
+    }
+
+    nav ul li:hover {
+        transform: scale(110%);
+        background-color: #0066BA;
+        transition: .5s;
+    }
+
+    /* Section header styles */
+    h2 {
+        font-size: 32pt;
+    }
+
+    /* About me styles */
+    /* About me - images */    
+    #about-me h3 {
+        font-size: 20pt;
+    }
+
+    /* About me - text */
+    #about-me p {
+        padding: 2%;
+        font-size: 15pt;
+    }
+
+    /* Portfolio styles */
+
+    /* Portfolio text cards styling */
+    .project-info h3 {
+        font-size: 24pt;
+        margin-top: 2%;
+    }
+
+    .project-info h4 {
+        font-size: 15pt;
+        text-align: left;
+        margin-bottom: 2%;
+    }
+
+    .project-info ul {
+        font-size: 13pt;
+    }
+
+    .project-info button {
+        margin-top: 2%;
+    }
+
+    /* Portfolio divider */
+    img.project-divider {
+        width: 10vw;
+        height: 10vw;
+    }
+
+    /* Contact me styles */
+    #contact-me {
+        margin-bottom: 2%;
+    }
+
+    /* Footer styles */
+    footer {
+        padding: 2%;
+    }
+    
+    footer h3 {
+        font-size: 32pt;
+        margin: 0 auto;
+    }
+
+    #footer-grid {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    footer img {
+        width: 20vw;
+    }
+    
+}
+
+@media screen and (min-width: 1024px) { /* Desktop (med screen) sizes */
+
+    /* General styles */
+    #near-background {
+        margin: 10%;
+    }
+
+    /* Header styles */
+    header {
+        margin: 0% 15%;
+        padding: 0;
+    }
+
+    header h1 {
+        padding: 2% 10%;
+        font-size: 35pt;
+    }
+
+    /* Nav styles */
+    
+    nav ul li {
+        padding: 5px 10px;
+    }
+
+    /* Section header styles */
+    h2 {
+        font-size: 35pt;
+    }
+
+    /* About me styles */
+
+    #about-me-grid {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        margin: 0 5%;
+        align-items: center;
+        justify-items: center;
+    }
+
+    /* About me picture styling */
+    picture img {
+        width: 100%;
+        margin: 0;
+    }
+
+    /* About me text */
+    #about-me h3 {
+        font-size: 18pt;
+        margin: 0;
+    }
+    
+    #about-me p {
+        font-size: 12pt;
+        padding: 3%;
+        margin: 0;
+    }
+
+    /* Project divider */
+    img.project-divider {
+        width: 5vw;
+        height: 5vw;
+    }
+
+    /* Contact me styles */
+    #contact-me {
+        margin: 0 15%;
+        padding: 2%;
+    }
+
+    /* Footer styles */
+    footer h3 {
+        font-size: 35pt;
+    }
+    
+    #footer-grid {
+        width: 50%;
+    }
+
+    footer img {
+        width: 10vw;
+    }
+
+    footer img:hover {
+        transform: scale(105%);
+        transition: .5s;
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+        
+    /* General styles */
+    #near-background {
+        margin: 5% 15%;
+    }
+
+    h2:first-of-type {
+        margin-top: -2%;
+    }
+    
+    /* Header styles */
+    header {
+        margin: 2% 27%;
+    }
+
+    header h1 {
+        font-size: 45pt;
+        padding: 5%;
+    }
+
+    /* Nav styles */
+    nav ul {
+        grid-gap: 0%;
+    }
+    
+    nav ul li {
+        font-size: 20pt;
+    }
+
+    /* About me styles */
+    #about-me-grid {
+        grid-gap: 2%;
+        grid-template-columns: 50% 50%;
+    }
+    
+    #about-me h3 {
+        font-size: 25pt;
+    }
+
+    #about-me p {
+        font-size: 16pt;
+    }
+
+    #about-me p:first-of-type {
+        margin-bottom: 2%;
+    }
+    
+    /* Portfolio general */
+    #portfolio > section {
+        padding: 2%;
+        margin: 2%;
+    }
+
+    #portfolio > section:nth-of-type(odd) {
+        display: grid;
+        grid-template-columns: 60% 40%;
+    }
+
+    #portfolio > section:nth-of-type(even) {
+        display: grid;
+        grid-template-columns: 40% 60%;
+    }
+
+    /* Portfolio image styling */
+    .project-images img {
+        filter: saturate(0);
+    }
+
+    #portfolio section:hover .project-images img { /* Replace with JavaScript for transition when hover is removed */
+        filter: saturate(100%);
+        z-index: 3;
+        transition: 1.5s;
+    }      
+
+    /* Portfolio text card styling */
+    .project-info {
+        height: auto;
+        padding: 0 5%;
+        position: relative;
+    }
+
+    #portfolio > section:nth-of-type(even) .project-info {
+        grid-column: 1 / span 1;
+        grid-row: 1 / span 1;
+    }
+
+    #portfolio > section:nth-of-type(even) .project-images {
+        grid-column: 2 / span 1;
+        grid-row: 1 / span 1;
+    }
+
+    .project-info h3 {
+        margin-top: 0;
+        font-size: 32pt;
+    }
+
+    .project-info h4 {
+        font-size: 20pt;
+        margin-bottom: 2%;
+    }
+
+    .project-info ul {
+        font-size: 14pt;
+        margin-top: 8%;
+    }
+
+    #portfolio section:nth-of-type(odd) .project-info button {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+
+    #portfolio section:nth-of-type(even) .project-info button {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+
+    .project-info button a {
+        font-size: 20pt;
+    }
+
+    .project-info button:hover {
+        transform: scale(105%);
+        transition: .5s;
+    }
+
+    /* Contact me styles */
+    #contact-me > h4 {
+        font-size: 20pt;
+    }
+
+    #contact-me button a {
+        font-size: 30pt;
+    }
+    
+}

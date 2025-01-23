@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Basics-->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!--Linked Documents-->
+        <link rel="stylesheet" href="portfolio-styles.css">
+        <script src="portfolio-scripts.js"></script>
+
+    <!--Fonts-->
+        <!--Inria Serif-->   
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alata&family=Bebas+Neue&family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+
+    <!--Favicon & Title-->
+    <title>SARAH MANGUM | PORTFOLIO</title>
+    <link rel="icon" type="image/x-icon" href="images/Favicon.svg">
+</head>
+<body>
+
+    <div id="near-background" aria-hidden="true">  <!-- This div wraps the body content and provides the darker gray "near background." -->
+
+        <!--Header and Nav-->
+        <header>
+            <h1>Sarah Mangum</h1>
+            <nav class="phones-only"> <!-- Mobile nav - icons only -->
+                <ul>
+                    <li><a href="#about-me-jump"><img src="images/personicon.svg" alt="About Me"></a></li> <!--"About Me" icon-->
+                    <li><a href="#portfolio-jump"><img src="images/portfolioicon.svg" alt="Portfolio"></a></li> <!--"Portfolio" icon-->
+                    <li><a href="#contact-me-jump"><img src="images/emailicon.svg" alt="Contact Me"></a></li> <!--"Contact Me" icon-->
+                </ul>
+            </nav>
+    
+            <nav class="no-phones"> <!-- Tablet and desktop nav - shows text instead of icons -->
+                <ul>
+                    <li><a href="#about-me">About Me</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact-me">Contact Me</a></li>
+                </ul>
+            </nav>
+        </header>
+        
+
+        <h2 id="about-me-jump" aria-hidden="true">About Me</h2>
+
+        <section id="about-me" aria-label="About Me"> <!--About me section-->
+
+            <div id="about-me-grid"> <!-- This ensures that "about me" can be styled into a grid -->
+                <picture>
+                    <source media="(max-width: 1023px)" srcset="images/portrait-mobile.png">
+                    <source media="(max-width: 1159px)" srcset="images/portraitipadpro.png">
+                    <img src="images/portrait-desktop.png" alt="A picture of me facing the camera with a big smile. It has a simple graphic background of a blue sky with clouds."> 
+                </picture>
+
+
+                <div id="about-me-text"> <!--This is for the text panels on the right side (so that they don't become part of the grid)-->
+                    <h3>Hello! Here's a bit about me.</h3>
+                    <p>I’m a web designer and developer who believes that every design is a work of art. 
+                       I specialize in modern layouts that use a range of design principles in order to make a final product that is as functional as it is beautiful. 
+                       In my work, I focus on bringing my artistic experience and intuition to the world of web design to enhance the visual and practical experience of each design I create.
+                       </p>
+                    <h3>But it doesn't end there.</h3>
+                    <p>
+                        In my free time, I find joy in a range of artistic mediums, both digital and traditional. I've had a passion for creating art since I was a toddler, and almost two decades of experience have shaped my ability to intuitively understand the best choices when creating a design with both personality and practicality.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <h2 id="portfolio-jump" aria-hidden="true">Portfolio</h2>
+        
+        <section id="portfolio" aria-label="Portfolio">
+            
+            <section id="project1" aria-label="Sprout and Grow">
+                <div class="project-images"> 
+                    <img src="images/saghome.png" class="project-image-1" alt="Sprout and Grow's home page. The website prominently features a large banner of a garden above a description of the company, Sprout and Grow's, services and mindset. A navigation bar sits snugly at the top of the page.">
+                    <img src="images/sagevents.png" class="project-image-2" alt="Sprout and Grow's upcoming events page. The design of this page features a zigzag grid, where relevant images and descriptions of each event alternate their left and right positions on the grid.">
+                    <img src="images/sagupdates.png" class="project-image-3" alt="Sprout and Grow's updates page. Each recent update is displayed on a small card. In turn, these cards are arranged into a 4-by-1 grid that takes up the center of the page.">
+                </div>
+                <div class="project-info">
+                    <h3>SPROUT AND GROW</h3>
+                    <h4>April 2024</h4>
+
+                    <ul>
+                        <li>Areas of expertise: <span>Web design, web development, HTML, CSS</span></li>
+                        <li>I was tasked with creating a website for a hypothetical client in Raleigh, NC. This client was a nursery whose brand identity focused on community and sustainability.</li>
+                        <li>I sculpted the website from the ground up. This was a solo project, so I handled everything in its design and development, from the first wireframes to writing and finalizing the code at the end. The only thing I didn't make myself was the website's copy, which was provided for me.</li>
+                        <li>The end result was a clean and welcoming design that uses color theory and design principles to its advantage in order to let the brand's personality shine.</li>
+                    </ul>
+
+                    <button> <a rel="noopener" href="https://wcet.waketech.edu/sgmangum/WEB140/sproutandgrow/index.html" target="_blank">See it for yourself →</a> </button>
+                </div>
+            </section>
+
+            <img src="images/lightningbolt.svg" aria-hidden="true" class="project-divider"> <!--Does not need alt text; is for visual decoration-->
+
+            <section id="project2" aria-label="Name Generator">
+                <div class="project-images"> 
+                    <img src="images/ngsaved.png" class="project-image-1" alt="A screenshot of the name generator at its full functionality. 8 names have been generated and 8 names have been saved. The website's color palette is warm, neutral creams and the layout puts everything 'above the scroll' while avoiding crowding the screen.">
+                    <img src="images/nggenerated.png" class="project-image-2" alt="A screenshot of the name generator. 8 names have been generated, but none have been saved.">
+                    <img src="images/ngempty.png" class="project-image-3" alt="A screenshot of the name generator. No names have been saved or generated.">
+                </div>
+                <div class="project-info">
+                    <h3>NAME GENERATOR</h3>
+                    <h4>November 2024</h4>
+
+                    <ul>
+                        <li>Areas of expertise: <span>JavaScript, jQuery</span></li>
+                        <li>This project was a personal experiment on my own time. I wanted to see if I could use jQuery (along with normal JavaScript) to build a "name generator".</li>
+                        <li>The code for this project was handwritten by me and, due to its experimental nature, the algorithm used to generate the names is the result of my own problem-solving.</li>
+                        <li>The name generator works by generating alternating vowels and consonants in order to create (mostly) pronouncable "names". The user can save the generated names or delete them from their saved list both in bulk and individually.</li>
+                    </ul>
+
+                    <button><a rel="noopener" href="https://catbash.neocities.org/experiments/name-gen/name-generator" target="_blank">See it for yourself →</a></button>
+                </div>
+            </section>
+
+            <img src="images/lightningbolt.svg" aria-hidden="true" class="project-divider"> <!--Does not need alt text; is for visual decoration-->
+
+            <section id="project3" aria-label="Build Your Meal Plan">
+                <div class="project-images"> 
+                    <img src="images/bymp-header.png" class="project-image-1" alt="The header of the build your meal plan form. The webpage prominently features a large banner saying 'Build Your Meal Plan' with a form underneath it. The webpage's color palette is shades of gray.">
+                    <img src="images/bymp-form-end.png" class="project-image-2" alt="The bottom of the form. The form is organized by each day of the week and contains inputs for breakfast, lunch, dinner, and two snacks. Sunday's section is currently visible.">
+                    <img src="images/bymp-builtplanner.png" class="project-image-3" alt="The resulting planner generated from the form. This page looks like an unstyled HTML document. The name of each meal is shown alongside the food that the user is planning to eat during it.">
+                </div>
+                <div class="project-info">
+                    <h3>BUILD YOUR MEAL PLANNER</h3>
+                    <h4>December 2024</h4>
+
+                    <ul>
+                        <li>Areas of expertise: <span>JavaScript, CSS, HTML</span></li>
+                        <li>This project uses JavaScript and an HTML form to allow a user to build a meal planner for the following week based on the meals that they type in. From these inputs, a planner is automatically built and displayed in a new window. The user also has the option to print the resulting planner.</li>
+                        <li>The custom-built planner is left mostly unstyled to allow for easy printing and readability.</li>
+                        <li>'Build Your Meal Planner' was created as a final project for a beginner JavaScript course in which I had to show off everything that I had learned.</li>
+                    </ul>
+
+                    <button><a rel="noopener" href="https://wcet.waketech.edu/sgmangum/WEB115/final-project/final-project.html" target="_blank">See it for yourself →</a></button>
+                </div>
+            </section>
+
+            <img src="images/lightningbolt.svg" aria-hidden="true" class="project-divider"> <!--Does not need alt text; is for visual decoration-->
+            
+            <section id="project4" aria-label="Artconnect">
+                <div class="project-images"> 
+                    <img src="images/acspread1landingloginupload.png" class="project-image-1" alt="A spread of 3 app screen mockups for the Artconnect prototype displayed on a phone. The first screen is a landing page, the second screen is a login page, and the final screen is an 'upload art' page.">
+                    <img src="images/acspread2searchgalleryprofile.png" class="project-image-2" alt="3 more app screen mockups, including a search page, a gallery page, and a profile page. The layout resembles the Explore page of Instagram.">
+                    <img src="images/acspread3notifspricingauction.png" class="project-image-3" alt="3 more app screen mockups, including a notification page and two screens detailing how the user wants to sell their art. One of the final two screens is built for a traditional sale while the other facilitates an auction.">
+                </div>
+                <div class="project-info">
+                    <h3>ARTCONNECT</h3>
+                    <h4>May 2024</h4>
+
+                    <ul>
+                        <li>Areas of expertise: <span>User Experience Design, Figma</span></li>
+                        <li>For this project, I concepted an app that would help artists sell their artwork and network in their local communities. All of Artconnect's elements (except for the stock photos) were all created by me as a solo project using Figma's prototype feature.</li>
+                        <li>Over the course of the project, I first created the low fidelity prototype and then moved on to refining it based on the feedback I was given.</li>
+                        <li>The app's target audience was mostly comprised of creatives and prospective buyers who would otherwise sell and post their work on another platform. Because of this, the design mimics the layout of many social media apps, especially Instagram.</li>
+                    </ul>
+
+                    <button><a rel="noopener" href="https://www.figma.com/proto/i5xG5iO3fktWPGotFBDmSN/Artconnect-HiFi-Prototype?node-id=3001-265&node-type=canvas&t=7OAuTI7An9sPJB4C-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3001%3A265" target="_blank">See it for yourself →</a></button>
+                </div>
+            </section>
+
+        </section>
+
+        <h2 id="contact-me-jump" aria-hidden="true">Contact Me</h2>
+
+        <section id="contact-me" aria-label="Contact Me">
+            <h4>Have a question? Email me at:</h4>
+            <button><a href="mailto:sal3mango@gmail.com" target="_blank">sal3mango@gmail.com</a></button>
+        </section>
+        
+    </div>
+
+    <footer>
+        <h3>Find me on</h3>
+        <div id="footer-grid" aria-label="Social media">
+            <a rel="noopener" href="https://www.linkedin.com/in/salem-mangum-5378292b3/" target="_blank"><img src="images/LI-Logo.png" alt="Linked In"></a>
+            <a rel="noopener" href="https://github.com/salemango" target="_blank"><img src="images/GitHub_Logo_White.png" alt="GitHub"></a>
+        </div>
+    </footer>
+</body>
+</html>
