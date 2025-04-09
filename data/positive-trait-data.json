@@ -1,532 +1,528 @@
+[{
+  "word": "Accessible",
+  "id": 1
+},
 {
-    "positive-traits": [
-            {
-              "word": "Accessible",
-              "id": 1
-            },
-            {
-              "word": "Adaptable",
-              "id": 2
-            },
-            {
-              "word": "Adventurous",
-              "id": 3
-            },
-            {
-              "word": "Agreeable",
-              "id": 4
-            },
-            {
-              "word": "Alert",
-              "id": 5
-            },
-            {
-              "word": "Allocentric",
-              "id": 6
-            },
-            {
-              "word": "alluring",
-              "id": 7
-            },
-            {
-              "word": "altruistic",
-              "id": 8
-            },
-            {
-              "word": "Articulate",
-              "id": 9
-            },
-            {
-              "word": "assertive",
-              "id": 10
-            },
-            {
-              "word": "astute",
-              "id": 11
-            },
-            {
-              "word": "authentic",
-              "id": 12
-            },
-            {
-              "word": "Benevolent",
-              "id": 13
-            },
-            {
-              "word": "Brilliant",
-              "id": 14
-            },
-            {
-              "word": "Calm",
-              "id": 15
-            },
-            {
-              "word": "Capable",
-              "id": 16
-            },
-            {
-              "word": "Captivating",
-              "id": 17
-            },
-            {
-              "word": "Caring",
-              "id": 18
-            },
-            {
-              "word": "Charismatic",
-              "id": 19
-            },
-            {
-              "word": "Cheerful",
-              "id": 20
-            },
-            {
-              "word": "Clever",
-              "id": 21
-            },
-            {
-              "word": "Colorful",
-              "id": 22
-            },
-            {
-              "word": "Compassionate",
-              "id": 23
-            },
-            {
-              "word": "Confident",
-              "id": 24
-            },
-            {
-              "word": "Conscientious",
-              "id": 25
-            },
-            {
-              "word": "Considerate",
-              "id": 26
-            },
-            {
-              "word": "Cooperative",
-              "id": 27
-            },
-            {
-              "word": "Courageous",
-              "id": 28
-            },
-            {
-              "word": "Creative",
-              "id": 29
-            },
-            {
-              "word": "Cultured",
-              "id": 30
-            },
-            {
-              "word": "Curious",
-              "id": 31
-            },
-            {
-              "word": "Debonair",
-              "id": 32
-            },
-            {
-              "word": "Decisive",
-              "id": 33
-            },
-            {
-              "word": "Dedicated",
-              "id": 34
-            },
-            {
-              "word": "Deep",
-              "id": 35
-            },
-            {
-              "word": "Dignified",
-              "id": 36
-            },
-            {
-              "word": "diplomatic",
-              "id": 37
-            },
-            {
-              "word": "Disciplined",
-              "id": 38
-            },
-            {
-              "word": "Discreet",
-              "id": 39
-            },
-            {
-              "word": "Dynamic",
-              "id": 40
-            },
-            {
-              "word": "Earnest",
-              "id": 41
-            },
-            {
-              "word": "Educated",
-              "id": 42
-            },
-            {
-              "word": "efficient",
-              "id": 43
-            },
-            {
-              "word": "elegant",
-              "id": 44
-            },
-            {
-              "word": "eloquent",
-              "id": 45
-            },
-            {
-              "word": "empathetic",
-              "id": 46
-            },
-            {
-              "word": "energetic",
-              "id": 47
-            },
-            {
-              "word": "enthusiatic",
-              "id": 48
-            },
-            {
-              "word": "exciting",
-              "id": 49
-            },
-            {
-              "word": "fair",
-              "id": 50
-            },
-            {
-              "word": "farsighted",
-              "id": 51
-            },
-            {
-              "word": "firm",
-              "id": 52
-            },
-            {
-              "word": "focused",
-              "id": 53
-            },
-            {
-              "word": "forthright",
-              "id": 54
-            },
-            {
-              "word": "fortunate",
-              "id": 55
-            },
-            {
-              "word": "freethinking",
-              "id": 56
-            },
-            {
-              "word": "friendly",
-              "id": 57
-            },
-            {
-              "word": "gallant",
-              "id": 58
-            },
-            {
-              "word": "generous",
-              "id": 59
-            },
-            {
-              "word": "gentle",
-              "id": 60
-            },
-            {
-              "word": "good-natured",
-              "id": 61
-            },
-            {
-              "word": "hardworking",
-              "id": 62
-            },
-            {
-              "word": "heroic",
-              "id": 63
-            },
-            {
-              "word": "honest",
-              "id": 64
-            },
-            {
-              "word": "honorable",
-              "id": 65
-            },
-            {
-              "word": "hospitable",
-              "id": 66
-            },
-            {
-              "word": "humble",
-              "id": 67
-            },
-            {
-              "word": "humorous",
-              "id": 68
-            },
-            {
-              "word": "incisive",
-              "id": 69
-            },
-            {
-              "word": "incorruptible",
-              "id": 70
-            },
-            {
-              "word": "innovative",
-              "id": 71
-            },
-            {
-              "word": "insightful",
-              "id": 72
-            },
-            {
-              "word": "inspiring",
-              "id": 73
-            },
-            {
-              "word": "intelligent",
-              "id": 74
-            },
-            {
-              "word": "intuitive",
-              "id": 75
-            },
-            {
-              "word": "kind",
-              "id": 76
-            },
-            {
-              "word": "knowledgeable",
-              "id": 77
-            },
-            {
-              "word": "Levelheaded",
-              "id": 78
-            },
-            {
-              "word": "liberal",
-              "id": 79
-            },
-            {
-              "word": "logical",
-              "id": 80
-            },
-            {
-              "word": "Loyal",
-              "id": 81
-            },
-            {
-              "word": "magnanimous",
-              "id": 82
-            },
-            {
-              "word": "mature",
-              "id": 83
-            },
-            {
-              "word": "mellow",
-              "id": 84
-            },
-            {
-              "word": "merciful",
-              "id": 85
-            },
-            {
-              "word": "meticulous",
-              "id": 86
-            },
-            {
-              "word": "modest",
-              "id": 87
-            },
-            {
-              "word": "natural leader",
-              "id": 88
-            },
-            {
-              "word": "neat",
-              "id": 89
-            },
-            {
-              "word": "objective",
-              "id": 90
-            },
-            {
-              "word": "observant",
-              "id": 91
-            },
-            {
-              "word": "open",
-              "id": 92
-            },
-            {
-              "word": "open minded",
-              "id": 93
-            },
-            {
-              "word": "optimistic",
-              "id": 94
-            },
-            {
-              "word": "organized",
-              "id": 95
-            },
-            {
-              "word": "outspoken",
-              "id": 96
-            },
-            {
-              "word": "passionate",
-              "id": 97
-            },
-            {
-              "word": "patient",
-              "id": 98
-            },
-            {
-              "word": "peaceful",
-              "id": 99
-            },
-            {
-              "word": "perceptive",
-              "id": 100
-            },
-            {
-              "word": "persuasive",
-              "id": 101
-            },
-            {
-              "word": "polite",
-              "id": 102
-            },
-            {
-              "word": "popular",
-              "id": 103
-            },
-            {
-              "word": "practical",
-              "id": 104
-            },
-            {
-              "word": "precise",
-              "id": 105
-            },
-            {
-              "word": "prepared",
-              "id": 106
-            },
-            {
-              "word": "principled",
-              "id": 107
-            },
-            {
-              "word": "proactive",
-              "id": 108
-            },
-            {
-              "word": "profound",
-              "id": 109
-            },
-            {
-              "word": "prudent",
-              "id": 110
-            },
-            {
-              "word": "punctual",
-              "id": 111
-            },
-            {
-              "word": "purposeful",
-              "id": 112
-            },
-            {
-              "word": "rational",
-              "id": 113
-            },
-            {
-              "word": "realistic",
-              "id": 114
-            },
-            {
-              "word": "Reflective",
-              "id": 115
-            },
-            {
-              "word": "reliable",
-              "id": 116
-            },
-            {
-              "word": "resilient",
-              "id": 117
-            },
-            {
-              "word": "resolute",
-              "id": 118
-            },
-            {
-              "word": "resourceful",
-              "id": 119
-            },
-            {
-              "word": "respectful",
-              "id": 120
-            },
-            {
-              "word": "responsible",
-              "id": 121
-            },
-            {
-              "word": "scrupulous",
-              "id": 122
-            },
-            {
-              "word": "shrewd",
-              "id": 123
-            },
-            {
-              "word": "solid",
-              "id": 124
-            },
-            {
-              "word": "sophisticated",
-              "id": 125
-            },
-            {
-              "word": "stable",
-              "id": 126
-            },
-            {
-              "word": "steadfast",
-              "id": 127
-            },
-            {
-              "word": "sweet",
-              "id": 128
-            },
-            {
-              "word": "sympathetic",
-              "id": 129
-            },
-            {
-              "word": "tenacious",
-              "id": 130
-            },
-            {
-              "word": "visionary",
-              "id": 131
-            },
-            {
-              "word": "wise",
-              "id": 132
-            }
-    ]
-}
+  "word": "Adaptable",
+  "id": 2
+},
+{
+  "word": "Adventurous",
+  "id": 3
+},
+{
+  "word": "Agreeable",
+  "id": 4
+},
+{
+  "word": "Alert",
+  "id": 5
+},
+{
+  "word": "Allocentric",
+  "id": 6
+},
+{
+  "word": "alluring",
+  "id": 7
+},
+{
+  "word": "altruistic",
+  "id": 8
+},
+{
+  "word": "Articulate",
+  "id": 9
+},
+{
+  "word": "assertive",
+  "id": 10
+},
+{
+  "word": "astute",
+  "id": 11
+},
+{
+  "word": "authentic",
+  "id": 12
+},
+{
+  "word": "Benevolent",
+  "id": 13
+},
+{
+  "word": "Brilliant",
+  "id": 14
+},
+{
+  "word": "Calm",
+  "id": 15
+},
+{
+  "word": "Capable",
+  "id": 16
+},
+{
+  "word": "Captivating",
+  "id": 17
+},
+{
+  "word": "Caring",
+  "id": 18
+},
+{
+  "word": "Charismatic",
+  "id": 19
+},
+{
+  "word": "Cheerful",
+  "id": 20
+},
+{
+  "word": "Clever",
+  "id": 21
+},
+{
+  "word": "Colorful",
+  "id": 22
+},
+{
+  "word": "Compassionate",
+  "id": 23
+},
+{
+  "word": "Confident",
+  "id": 24
+},
+{
+  "word": "Conscientious",
+  "id": 25
+},
+{
+  "word": "Considerate",
+  "id": 26
+},
+{
+  "word": "Cooperative",
+  "id": 27
+},
+{
+  "word": "Courageous",
+  "id": 28
+},
+{
+  "word": "Creative",
+  "id": 29
+},
+{
+  "word": "Cultured",
+  "id": 30
+},
+{
+  "word": "Curious",
+  "id": 31
+},
+{
+  "word": "Debonair",
+  "id": 32
+},
+{
+  "word": "Decisive",
+  "id": 33
+},
+{
+  "word": "Dedicated",
+  "id": 34
+},
+{
+  "word": "Deep",
+  "id": 35
+},
+{
+  "word": "Dignified",
+  "id": 36
+},
+{
+  "word": "diplomatic",
+  "id": 37
+},
+{
+  "word": "Disciplined",
+  "id": 38
+},
+{
+  "word": "Discreet",
+  "id": 39
+},
+{
+  "word": "Dynamic",
+  "id": 40
+},
+{
+  "word": "Earnest",
+  "id": 41
+},
+{
+  "word": "Educated",
+  "id": 42
+},
+{
+  "word": "efficient",
+  "id": 43
+},
+{
+  "word": "elegant",
+  "id": 44
+},
+{
+  "word": "eloquent",
+  "id": 45
+},
+{
+  "word": "empathetic",
+  "id": 46
+},
+{
+  "word": "energetic",
+  "id": 47
+},
+{
+  "word": "enthusiatic",
+  "id": 48
+},
+{
+  "word": "exciting",
+  "id": 49
+},
+{
+  "word": "fair",
+  "id": 50
+},
+{
+  "word": "farsighted",
+  "id": 51
+},
+{
+  "word": "firm",
+  "id": 52
+},
+{
+  "word": "focused",
+  "id": 53
+},
+{
+  "word": "forthright",
+  "id": 54
+},
+{
+  "word": "fortunate",
+  "id": 55
+},
+{
+  "word": "freethinking",
+  "id": 56
+},
+{
+  "word": "friendly",
+  "id": 57
+},
+{
+  "word": "gallant",
+  "id": 58
+},
+{
+  "word": "generous",
+  "id": 59
+},
+{
+  "word": "gentle",
+  "id": 60
+},
+{
+  "word": "good-natured",
+  "id": 61
+},
+{
+  "word": "hardworking",
+  "id": 62
+},
+{
+  "word": "heroic",
+  "id": 63
+},
+{
+  "word": "honest",
+  "id": 64
+},
+{
+  "word": "honorable",
+  "id": 65
+},
+{
+  "word": "hospitable",
+  "id": 66
+},
+{
+  "word": "humble",
+  "id": 67
+},
+{
+  "word": "humorous",
+  "id": 68
+},
+{
+  "word": "incisive",
+  "id": 69
+},
+{
+  "word": "incorruptible",
+  "id": 70
+},
+{
+  "word": "innovative",
+  "id": 71
+},
+{
+  "word": "insightful",
+  "id": 72
+},
+{
+  "word": "inspiring",
+  "id": 73
+},
+{
+  "word": "intelligent",
+  "id": 74
+},
+{
+  "word": "intuitive",
+  "id": 75
+},
+{
+  "word": "kind",
+  "id": 76
+},
+{
+  "word": "knowledgeable",
+  "id": 77
+},
+{
+  "word": "Levelheaded",
+  "id": 78
+},
+{
+  "word": "liberal",
+  "id": 79
+},
+{
+  "word": "logical",
+  "id": 80
+},
+{
+  "word": "Loyal",
+  "id": 81
+},
+{
+  "word": "magnanimous",
+  "id": 82
+},
+{
+  "word": "mature",
+  "id": 83
+},
+{
+  "word": "mellow",
+  "id": 84
+},
+{
+  "word": "merciful",
+  "id": 85
+},
+{
+  "word": "meticulous",
+  "id": 86
+},
+{
+  "word": "modest",
+  "id": 87
+},
+{
+  "word": "natural leader",
+  "id": 88
+},
+{
+  "word": "neat",
+  "id": 89
+},
+{
+  "word": "objective",
+  "id": 90
+},
+{
+  "word": "observant",
+  "id": 91
+},
+{
+  "word": "open",
+  "id": 92
+},
+{
+  "word": "open minded",
+  "id": 93
+},
+{
+  "word": "optimistic",
+  "id": 94
+},
+{
+  "word": "organized",
+  "id": 95
+},
+{
+  "word": "outspoken",
+  "id": 96
+},
+{
+  "word": "passionate",
+  "id": 97
+},
+{
+  "word": "patient",
+  "id": 98
+},
+{
+  "word": "peaceful",
+  "id": 99
+},
+{
+  "word": "perceptive",
+  "id": 100
+},
+{
+  "word": "persuasive",
+  "id": 101
+},
+{
+  "word": "polite",
+  "id": 102
+},
+{
+  "word": "popular",
+  "id": 103
+},
+{
+  "word": "practical",
+  "id": 104
+},
+{
+  "word": "precise",
+  "id": 105
+},
+{
+  "word": "prepared",
+  "id": 106
+},
+{
+  "word": "principled",
+  "id": 107
+},
+{
+  "word": "proactive",
+  "id": 108
+},
+{
+  "word": "profound",
+  "id": 109
+},
+{
+  "word": "prudent",
+  "id": 110
+},
+{
+  "word": "punctual",
+  "id": 111
+},
+{
+  "word": "purposeful",
+  "id": 112
+},
+{
+  "word": "rational",
+  "id": 113
+},
+{
+  "word": "realistic",
+  "id": 114
+},
+{
+  "word": "Reflective",
+  "id": 115
+},
+{
+  "word": "reliable",
+  "id": 116
+},
+{
+  "word": "resilient",
+  "id": 117
+},
+{
+  "word": "resolute",
+  "id": 118
+},
+{
+  "word": "resourceful",
+  "id": 119
+},
+{
+  "word": "respectful",
+  "id": 120
+},
+{
+  "word": "responsible",
+  "id": 121
+},
+{
+  "word": "scrupulous",
+  "id": 122
+},
+{
+  "word": "shrewd",
+  "id": 123
+},
+{
+  "word": "solid",
+  "id": 124
+},
+{
+  "word": "sophisticated",
+  "id": 125
+},
+{
+  "word": "stable",
+  "id": 126
+},
+{
+  "word": "steadfast",
+  "id": 127
+},
+{
+  "word": "sweet",
+  "id": 128
+},
+{
+  "word": "sympathetic",
+  "id": 129
+},
+{
+  "word": "tenacious",
+  "id": 130
+},
+{
+  "word": "visionary",
+  "id": 131
+},
+{
+  "word": "wise",
+  "id": 132
+}]
