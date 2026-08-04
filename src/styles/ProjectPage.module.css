@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    /* Basic colors */
+    --background: #F4F0EC;
+    --text-light: #1C1C1C;
+    --text-dark: #000000;
+    --text-accent: #185EA3;
+    
+    /* Rainbow colors */
+    --red-accent: #E85C61;
+    --orange-accent: #FFA352;
+    --yellow-accent: #FFC300;
+    --green-accent: #84DA65;
+    --blue-accent: #50A9EA;
+    --purple-accent: #A35FC0;
+
+    /* Fonts */
+    --serif: 'Playfair Display', Georgia, serif;
+    --sans-serif: 'Work Sans', Arial, Helvetica, sans-serif;
+}
+
+.h1 {
+    font-size: 40px;
+    line-height: 50px;
+    padding: 40px 0px;
+}
+
+.h2 {
+    margin-bottom: 0px;
+}
+
+.carousel-inner::-webkit-scrollbar {
+    width: none;
+}
+
+.carousel-inner {
+    display: flex;
+    flex-direction: row;
+    gap: calc(100dvw / 12);
+    
+    max-width: calc((100dvw / 12) * 10);
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+}
+
+.carousel-inner img {
+    aspect-ratio: 16 / 9;
+    width: calc((100dvw / 12) * 10);
+    scroll-snap-align: start;
+    object-fit: cover;
+}
+
+.carousel-nav-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 16px;
+}
+
+.carousel-button {
+    cursor: pointer;
+    border: none;
+    background-color: var(--yellow-accent);
+    font-family: var(--sans-serif);
+    font-size: 18px;
+    padding: 5px 10px;
+    font-style: italic;
+    margin-bottom: 48px;
+}
+
+.carousel-number-button {
+    background-color: var(--orange-accent);
+}
+
+.carousel-button.carousel-button-active {
+    background-color: var(--red-accent);
+}
+
+
+.project-information p {
+    margin-top: 24px;
+}
+
+.project-information p:first-of-type {
+    margin-top: 0px;
+}
+
+.project-information p, .project-information li {
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.project-information p span {
+    font-style: normal;
+    font-weight: bold;
+}
+
+.technologies-list {
+    margin-left: calc(100dvw / 12);
+    margin-top: 16px;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.technologies-list li {
+    padding: 2px 15px;
+}
+
+.technologies-list li.programming {
+    background-color: var(--purple-accent);
+}
+
+.technologies-list li.data {
+    background-color: var(--blue-accent);
+}
+
+.technologies-list li.markup {
+    background-color: var(--green-accent);
+}
+
+.technologies-list li.design {
+    background-color: var(--yellow-accent);
+}
+
+.section {
+    margin-top: 56px;
+}
+
+.section.overview h2::before {
+    content: '📋';
+}
+
+.section.features h2::before {
+    content: '💻';
+}
+
+.section.retrospective h2::before {
+    content: '🔬';
+}
+
+.section p, .section ul {
+    margin-left: calc(100dvw / 12);
+    margin-top: 24px;
+}
+
+.section li {
+    margin-top: 8px;
+}
+
+.section p:first-of-type {
+    margin-top: none;
+}
+
+.section:last-of-type {
+    margin-bottom: 64px;
+}
+
+.section-images {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 16px;
+    margin-bottom: 32px;
+    margin-left: calc(100dvw / 12);
+}
+
+.section-image {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    object-fit: scale-down;
+    
+    max-width: calc((100dvw / 12) * 9);
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.project-button {
+    border: none;
+    background-color: var(--yellow-accent);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    width: calc((100dvw / 12) * 10);
+    margin-bottom: 32px;
+    font-size: 16px;
+    font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.project-button a {
+    color: var(--text-dark);
+    text-decoration: none;
+}
+
+@media screen and (min-width: 730px) {
+
+    nav ul {
+        justify-content: start;
+        align-items: start;
+        flex-wrap: wrap;
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .h1 {
+        font-size: 64px;
+        line-height: 80px;
+        text-transform: none;
+        text-align: left;
+        padding: 0px;
+        margin-top: 40px;
+        margin-bottom: 56px;
+    }
+
+    .carousel-button {
+        font-size: 24px;
+    }
+
+    .project-information p, .project-information li {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .project-information p {
+        margin-top: 32px;
+    }
+
+    .section {
+        margin-top: 80px;
+    }
+
+    .section-image {
+        max-height: 400px;
+    }
+
+    .project-button {
+        margin-top: 80px;
+        margin-bottom: 40px;
+        width: calc((100dvw / 12) * 8);
+        margin-left: calc((100dvw / 12) * 2);
+        font-size: 24px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+    .h1 {
+        font-size: 96px;
+        line-height: 96px;
+    }
+
+    .carousel-inner {
+        gap: calc(100dvw / 24);
+        max-width: calc((100dvw / 24) * 22);
+    }
+
+    .carousel-inner img {
+        width: calc((100dvw / 24) * 11);
+        
+    }
+
+    .carousel-button {
+        padding: 10px 20px;
+        font-size: 25px;
+    }
+
+    .project-information p {
+        margin-top: 24px;
+    }
+
+    .project-information p, .project-information li {
+        font-size: 28px;
+    }
+
+    .technologies-list {
+        margin-top: 12px;
+        margin-left: calc((100dvw / 24));
+    }
+
+    .section {
+        margin-top: 128px;
+    }
+
+    .section p, .section ul {
+        margin-left: calc((100dvw / 24));
+        margin-right: calc((100dvw / 24) * 6);
+    }
+
+    .section-images {
+        display: grid;
+        grid-template-columns: auto auto;
+        row-gap: calc(100dvw / 24);
+        margin-left: calc(100dvw / 24);
+    }
+
+    .section-image {
+        height: 500px;
+        text-align: left;
+    }
+
+    .project-button {
+        width: calc((100dvw / 24) * 10);
+        margin-left: 50dvw;
+        font-size: 32px;
+        margin-bottom: 80px;
+    }
+}
