@@ -1,0 +1,1266 @@
+[
+ {
+   "name": "abrasive",
+   "definition": "Rude and harsh toward others",
+   "bio": {
+      "group1": "Character often comes across as harsh or rough, even when PRN1 do not intend to offend others.",
+      "group2": "Character often comes across as harsh or rough, even when PRN1 does not intend to offend others."
+   }
+},
+ {
+   "name": "abusive",
+   "definition": "Treats others harmfully",
+   "bio": {
+      "group1": "PRN1 frequently use harmful words or actions that damage trust and relationships.",
+      "group2": "PRN1 frequently uses harmful words or actions that damage trust and relationships."
+   }
+},
+ {
+   "name": "aimless",
+   "definition": "Lacks direction or goals",
+   "bio": {
+      "group1": "Character moves through life without a clear direction and often struggles to define long-term goals.",
+      "group2": "Character moves through life without a clear direction and often struggles to define long-term goals."
+   }
+},
+ {
+   "name": "aloof",
+   "definition": "Distant and uninvolved",
+   "bio": {
+      "group1": "PRN1 keep emotional distance from others and rarely become deeply involved in social situations.",
+      "group2": "PRN1 keeps emotional distance from others and rarely becomes deeply involved in social situations."
+   }
+},
+ {
+   "name": "amoral",
+   "definition": "Ignores right and wrong",
+   "bio": {
+      "group1": "Character makes decisions without giving much weight to conventional ideas of right and wrong.",
+      "group2": "Character makes decisions without giving much weight to conventional ideas of right and wrong."
+   }
+},
+ {
+   "name": "anxious",
+   "definition": "Frequently worried or nervous",
+   "bio": {
+      "group1": "PRN1 frequently worry about potential problems and often expect situations to become difficult.",
+      "group2": "PRN1 frequently worries about potential problems and often expects situations to become difficult."
+   }
+},
+ {
+   "name": "apathetic",
+   "definition": "Shows little interest or concern",
+   "bio": {
+      "group1": "Character shows little enthusiasm or concern for many of the events happening around PRN2.",
+      "group2": "Character shows little enthusiasm or concern for many of the events happening around PRN2."
+   }
+},
+ {
+   "name": "arrogant",
+   "definition": "Feels superior to others",
+   "bio": {
+      "group1": "PRN1 often assume PRN3 opinions or abilities are superior to those of other people.",
+      "group2": "PRN1 often assumes PRN3 opinions or abilities are superior to those of other people."
+   }
+},
+ {
+   "name": "artificial",
+   "definition": "Not genuine or sincere",
+   "bio": {
+      "group1": "Character tends to present a version of PRN2selves that can feel forced or insincere.",
+      "group2": "Character tends to present a version of PRN2self that can feel forced or insincere."
+   }
+},
+ {
+   "name": "asocial",
+   "definition": "Avoids social interaction",
+   "bio": {
+      "group1": "PRN1 have little interest in social interaction and usually prefer to keep to PRN2selves.",
+      "group2": "PRN1 has little interest in social interaction and usually prefers to keep to PRN2self."
+   }
+},
+ {
+   "name": "avoidant",
+   "definition": "Avoids problems or situations",
+   "bio": {
+      "group1": "Character often sidesteps difficult situations instead of confronting them directly.",
+      "group2": "Character often sidesteps difficult situations instead of confronting them directly."
+   }
+},
+ {
+   "name": "awkward",
+   "definition": "Socially uncomfortable",
+   "bio": {
+      "group1": "PRN1 sometimes struggle with social timing and can feel out of place in conversations.",
+      "group2": "PRN1 sometimes struggles with social timing and can feel out of place in conversations."
+   }
+},
+ {
+   "name": "Belligerent",
+   "definition": "Eager to argue or fight",
+   "bio": {
+      "group1": "Character is quick to challenge others and may turn disagreements into open conflicts.",
+      "group2": "Character is quick to challenge others and may turn disagreements into open conflicts."
+   }
+},
+ {
+   "name": "bigoted",
+   "definition": "Intolerant of differences",
+   "bio": {
+      "group1": "PRN1 are often unwilling to accept beliefs, backgrounds, or perspectives different from PRN3 own.",
+      "group2": "PRN1 is often unwilling to accept beliefs, backgrounds, or perspectives different from PRN3 own."
+   }
+},
+ {
+   "name": "bizarre",
+   "definition": "Very strange or unusual",
+   "bio": {
+      "group1": "Character regularly behaves in unusual ways that many people find difficult to understand.",
+      "group2": "Character regularly behaves in unusual ways that many people find difficult to understand."
+   }
+},
+ {
+   "name": "bland",
+   "definition": "Lacking excitement or personality",
+   "bio": {
+      "group1": "PRN1 rarely leave a strong impression and often avoid expressing much personality.",
+      "group2": "PRN1 rarely leaves a strong impression and often avoids expressing much personality."
+   }
+},
+ {
+   "name": "bloodthirsty",
+   "definition": "Enjoys violence or cruelty",
+   "bio": {
+      "group1": "Character shows an unsettling interest in violence, conflict, or the suffering of others.",
+      "group2": "Character shows an unsettling interest in violence, conflict, or the suffering of others."
+   }
+},
+ {
+   "name": "bragging",
+   "definition": "Boasts about achievements",
+   "bio": {
+      "group1": "PRN1 frequently draw attention to PRN3 achievements and accomplishments.",
+      "group2": "PRN1 frequently draws attention to PRN3 achievements and accomplishments."
+   }
+},
+ {
+   "name": "brokenhearted",
+   "definition": "Deeply saddened by loss",
+   "bio": {
+      "group1": "Character carries deep emotional pain from a significant loss or disappointment.",
+      "group2": "Character carries deep emotional pain from a significant loss or disappointment."
+   }
+},
+ {
+   "name": "callous",
+   "definition": "Lacks concern for others",
+   "bio": {
+      "group1": "PRN1 often overlook the feelings of others and may seem emotionally detached from suffering.",
+      "group2": "PRN1 often overlooks the feelings of others and may seem emotionally detached from suffering."
+   }
+},
+ {
+   "name": "cantakerous",
+   "definition": "Often bad-tempered and argumentative",
+   "bio": {
+      "group1": "Character is frequently irritable and tends to argue even over minor issues.",
+      "group2": "Character is frequently irritable and tends to argue even over minor issues."
+   }
+},
+ {
+   "name": "careless",
+   "definition": "Not paying enough attention",
+   "bio": {
+      "group1": "PRN1 often overlook important details and may create problems through inattention.",
+      "group2": "PRN1 often overlooks important details and may create problems through inattention."
+   }
+},
+ {
+   "name": "charmless",
+   "definition": "Lacking likability or appeal",
+   "bio": {
+      "group1": "Character struggles to make positive impressions and may appear difficult to connect with.",
+      "group2": "Character struggles to make positive impressions and may appear difficult to connect with."
+   }
+},
+ {
+   "name": "childish",
+   "definition": "Acts immaturely",
+   "bio": {
+      "group1": "PRN1 frequently respond to situations with a level of immaturity that surprises others.",
+      "group2": "PRN1 frequently responds to situations with a level of immaturity that surprises others."
+   }
+},
+ {
+   "name": "Clingy",
+   "definition": "Overly dependent on others",
+   "bio": {
+      "group1": "Character becomes strongly attached to others and may struggle with independence.",
+      "group2": "Character becomes strongly attached to others and may struggle with independence."
+   }
+},
+ {
+   "name": "coarse",
+   "definition": "Rude and unrefined",
+   "bio": {
+      "group1": "PRN1 often communicate in a crude or unrefined manner that others find unpleasant.",
+      "group2": "PRN1 often communicates in a crude or unrefined manner that others find unpleasant."
+   }
+},
+ {
+   "name": "cold",
+   "definition": "Emotionally distant and uncaring",
+   "bio": {
+      "group1": "Character keeps people at a distance and rarely displays warmth or affection.",
+      "group2": "Character keeps people at a distance and rarely displays warmth or affection."
+   }
+},
+ {
+   "name": "Combative",
+   "definition": "Seeks conflict directly",
+   "bio": {
+      "group1": "PRN1 instinctively push back against opposition and rarely avoid confrontation.",
+      "group2": "PRN1 instinctively pushes back against opposition and rarely avoids confrontation."
+   }
+},
+ {
+   "name": "commitment-shy",
+   "definition": "Avoids long-term commitments",
+   "bio": {
+      "group1": "Character hesitates to make lasting commitments and often keeps PRN3 options open.",
+      "group2": "Character hesitates to make lasting commitments and often keeps PRN3 options open."
+   }
+},
+ {
+   "name": "compulsive",
+   "definition": "Driven by uncontrollable urges",
+   "bio": {
+      "group1": "PRN1 feel driven to repeat certain behaviors even when those habits create difficulties.",
+      "group2": "PRN1 feels driven to repeat certain behaviors even when those habits create difficulties."
+   }
+},
+ {
+   "name": "Condescending",
+   "definition": "Talks down to others",
+   "bio": {
+      "group1": "Character frequently speaks to others as though PRN1 are less capable or informed.",
+      "group2": "Character frequently speaks to others as though PRN1 are less capable or informed."
+   }
+},
+ {
+   "name": "controlling",
+   "definition": "Tries to dominate others",
+   "bio": {
+      "group1": "Character prefers directing situations and may have difficulty letting others take charge.",
+      "group2": "Character prefers directing situations and may have difficulty letting others take charge."
+   }
+},
+ {
+   "name": "corrupt",
+   "definition": "Dishonest for personal gain",
+   "bio": {
+      "group1": "PRN1 are willing to compromise principles when personal gain is involved.",
+      "group2": "PRN1 is willing to compromise principles when personal gain is involved."
+   }
+},
+ {
+   "name": "cowardly",
+   "definition": "Lacks courage",
+   "bio": {
+      "group1": "Character avoids risks, challenges, or dangers whenever possible.",
+      "group2": "Character avoids risks, challenges, or dangers whenever possible."
+   }
+},
+ {
+   "name": "crass",
+   "definition": "Insensitive and crude",
+   "bio": {
+      "group1": "PRN1 often disregard social sensitivity and say things that others find offensive.",
+      "group2": "PRN1 often disregards social sensitivity and says things that others find offensive."
+   }
+},
+ {
+   "name": "Craven",
+   "definition": "Extremely cowardly",
+   "bio": {
+      "group1": "Character lacks the courage to stand firm when faced with fear or pressure.",
+      "group2": "Character lacks the courage to stand firm when faced with fear or pressure."
+   }
+},
+ {
+   "name": "cruel",
+   "definition": "Enjoys causing pain",
+   "bio": {
+      "group1": "PRN1 show little hesitation in causing emotional or physical pain to others.",
+      "group2": "PRN1 shows little hesitation in causing emotional or physical pain to others."
+   }
+},
+ {
+   "name": "cynical",
+   "definition": "Distrustful of motives",
+   "bio": {
+      "group1": "Character tends to assume that people are motivated by selfish or dishonest intentions.",
+      "group2": "Character tends to assume that people are motivated by selfish or dishonest intentions."
+   }
+},
+ {
+   "name": "deceitful",
+   "definition": "Misleads others intentionally",
+   "bio": {
+      "group1": "PRN1 regularly hide the truth or manipulate facts to achieve PRN3 goals.",
+      "group2": "PRN1 regularly hides the truth or manipulates facts to achieve PRN3 goals."
+   }
+},
+ {
+   "name": "delicate",
+   "definition": "Easily overwhelmed or upset",
+   "bio": {
+      "group1": "Character is easily overwhelmed by pressure and may struggle to handle difficult circumstances.",
+      "group2": "Character is easily overwhelmed by pressure and may struggle to handle difficult circumstances."
+   }
+},
+ {
+   "name": "Delusional",
+   "definition": "Believes false ideas",
+   "bio": {
+      "group1": "PRN1 hold firmly to beliefs that remain disconnected from reality despite evidence.",
+      "group2": "PRN1 holds firmly to beliefs that remain disconnected from reality despite evidence."
+   }
+},
+ {
+   "name": "demanding",
+   "definition": "Requires too much from others",
+   "bio": {
+      "group1": "Character expects a great deal from others and is rarely satisfied with less.",
+      "group2": "Character expects a great deal from others and is rarely satisfied with less."
+   }
+},
+ {
+   "name": "dense",
+   "definition": "Slow to understand",
+   "bio": {
+      "group1": "PRN1 often miss obvious points and can be slow to understand what others mean.",
+      "group2": "PRN1 often misses obvious points and can be slow to understand what others mean."
+   }
+},
+ {
+   "name": "dependent",
+   "definition": "Relies excessively on others",
+   "bio": {
+      "group1": "Character relies heavily on support, guidance, or approval from other people.",
+      "group2": "Character relies heavily on support, guidance, or approval from other people."
+   }
+},
+ {
+   "name": "depraved",
+   "definition": "Morally corrupted",
+   "bio": {
+      "group1": "PRN1 engage in behavior that most people would consider morally corrupt or disturbing.",
+      "group2": "PRN1 engages in behavior that most people would consider morally corrupt or disturbing."
+   }
+},
+ {
+   "name": "desperate",
+   "definition": "Driven by extreme need",
+   "bio": {
+      "group1": "Character is driven by intense need and may make reckless choices to avoid failure.",
+      "group2": "Character is driven by intense need and may make reckless choices to avoid failure."
+   }
+},
+ {
+   "name": "destructive",
+   "definition": "Causes damage or harm",
+   "bio": {
+      "group1": "PRN1 have a tendency to damage relationships, plans, or environments through PRN3 actions.",
+      "group2": "PRN1 has a tendency to damage relationships, plans, or environments through PRN3 actions."
+   }
+},
+ {
+   "name": "devious",
+   "definition": "Uses dishonest methods",
+   "bio": {
+      "group1": "Character prefers indirect methods and often relies on manipulation to achieve results.",
+      "group2": "Character prefers indirect methods and often relies on manipulation to achieve results."
+   }
+},
+ {
+   "name": "difficult",
+   "definition": "Hard to deal with",
+   "bio": {
+      "group1": "PRN1 are challenging to work with and frequently create friction in group situations.",
+      "group2": "PRN1 is challenging to work with and frequently creates friction in group situations."
+   }
+},
+ {
+   "name": "disconcerting",
+   "definition": "Makes others uncomfortable",
+   "bio": {
+      "group1": "Character's behavior often leaves others feeling uneasy, confused, or unsettled.",
+      "group2": "Character's behavior often leaves others feeling uneasy, confused, or unsettled."
+   }
+},
+ {
+   "name": "dishonest",
+   "definition": "Not truthful",
+   "bio": {
+      "group1": "Character regularly bends or hides the truth.",
+      "group2": "Character regularly bends or hides the truth."
+   }
+},
+ {
+   "name": "disloyal",
+   "definition": "Fails to remain faithful",
+   "bio": {
+      "group1": "PRN1 struggle to maintain lasting loyalty and may abandon commitments when circumstances change.",
+      "group2": "PRN1 struggles to maintain lasting loyalty and may abandon commitments when circumstances change."
+   }
+},
+ {
+   "name": "dismissive",
+   "definition": "Rejects others concerns",
+   "bio": {
+      "group1": "Character often ignores concerns, ideas, or emotions that PRN1 do not consider important.",
+      "group2": "Character often ignores concerns, ideas, or emotions that PRN1 do not consider important."
+   }
+},
+ {
+   "name": "disobedient",
+   "definition": "Refuses to follow rules",
+   "bio": {
+      "group1": "PRN1 resist rules, expectations, or authority figures and prefer doing things PRN3 own way even when it makes their situation worse.",
+      "group2": "PRN1 resists rules, expectations, or authority figures and prefers doing things PRN3 own way even when it makes their situation worse."
+   }
+},
+ {
+   "name": "Disorganized",
+   "definition": "Poorly arranged and scattered",
+   "bio": {
+      "group1": "Character has difficulty keeping plans, responsibilities, or possessions in order.",
+      "group2": "Character has difficulty keeping plans, responsibilities, or possessions in order."
+   }
+},
+ {
+   "name": "distractible",
+   "definition": "Easily loses focus",
+   "bio": {
+      "group1": "PRN1 frequently lose focus and find it difficult to stay engaged with one task.",
+      "group2": "PRN1 frequently loses focus and finds it difficult to stay engaged with one task."
+   }
+},
+ {
+   "name": "disturbing",
+   "definition": "Causes discomfort or concern",
+   "bio": {
+      "group1": "Character's behavior, interests, or actions often make others uncomfortable.",
+      "group2": "Character's behavior, interests, or actions often make others uncomfortable."
+   }
+},
+ {
+   "name": "Domineering",
+   "definition": "Overly controlling and forceful",
+   "bio": {
+      "group1": "PRN1 prefer being in control and may overwhelm people who challenge PRN3 authority.",
+      "group2": "PRN1 prefers being in control and may overwhelm people who challenge PRN3 authority."
+   }
+},
+ {
+   "name": "Duplicitous",
+   "definition": "Two-faced and deceptive",
+   "bio": {
+      "group1": "Character presents different faces to different people and often conceals PRN3 true intentions.",
+      "group2": "Character presents different faces to different people and often conceals PRN3 true intentions."
+   }
+},
+ {
+   "name": "egocentric",
+   "definition": "Focused mainly on self",
+   "bio": {
+      "group1": "PRN1 view situations primarily through the lens of PRN3 own needs and experiences.",
+      "group2": "PRN1 views situations primarily through the lens of PRN3 own needs and experiences."
+   }
+},
+ {
+   "name": "Elitist",
+   "definition": "Believes some people are superior",
+   "bio": {
+      "group1": "Character believes certain people are inherently more valuable, capable, or deserving than others.",
+      "group2": "Character believes certain people are inherently more valuable, capable, or deserving than others."
+   }
+},
+ {
+   "name": "envious",
+   "definition": "Resents others advantages",
+   "bio": {
+      "group1": "PRN1 frequently compare PRN2selves to others and resent advantages PRN1 do not possess.",
+      "group2": "PRN1 frequently compares PRN2self to others and resents advantages PRN1 do not possess."
+   }
+},
+ {
+   "name": "erratic",
+   "definition": "Behaves unpredictably",
+   "bio": {
+      "group1": "Character's behavior can change suddenly, making PRN2 difficult to predict.",
+      "group2": "Character's behavior can change suddenly, making PRN2 difficult to predict."
+   }
+},
+ {
+   "name": "escapist",
+   "definition": "Avoids reality",
+   "bio": {
+      "group1": "PRN1 often avoid difficult realities by distracting PRN2selves or retreating into fantasies.",
+      "group2": "PRN1 often avoids difficult realities by distracting PRN2self or retreating into fantasies."
+   }
+},
+ {
+   "name": "extremist",
+   "definition": "Holds extreme views",
+   "bio": {
+      "group1": "Character tends to embrace positions or beliefs with little room for moderation.",
+      "group2": "Character tends to embrace positions or beliefs with little room for moderation."
+   }
+},
+ {
+   "name": "fanatical",
+   "definition": "Excessively devoted to beliefs",
+   "bio": {
+      "group1": "PRN1 pursue PRN3 convictions with an intensity that can overshadow reason or balance.",
+      "group2": "PRN1 pursues PRN3 convictions with an intensity that can overshadow reason or balance."
+   }
+},
+ {
+   "name": "fickle",
+   "definition": "Changes opinions often",
+   "bio": {
+      "group1": "Character changes preferences, loyalties, or opinions frequently and without much warning.",
+      "group2": "Character changes preferences, loyalties, or opinions frequently and without much warning."
+   }
+},
+ {
+   "name": "finicky",
+   "definition": "Hard to satisfy",
+   "bio": {
+      "group1": "PRN1 are difficult to satisfy and often become frustrated by minor imperfections.",
+      "group2": "PRN1 is difficult to satisfy and often becomes frustrated by minor imperfections."
+   }
+},
+ {
+   "name": "foolish",
+   "definition": "Shows poor judgment",
+   "bio": {
+      "group1": "Character regularly makes poor decisions despite having better options available.",
+      "group2": "Character regularly makes poor decisions despite having better options available."
+   }
+},
+ {
+   "name": "forceful",
+   "definition": "Pushes others aggressively",
+   "bio": {
+      "group1": "PRN1 push PRN3 ideas and desires aggressively, even when others resist.",
+      "group2": "PRN1 pushes PRN3 ideas and desires aggressively, even when others resist."
+   }
+},
+ {
+   "name": "forgetful",
+   "definition": "Often forgets things",
+   "bio": {
+      "group1": "Character often loses track of important details, conversations, or responsibilities.",
+      "group2": "Character often loses track of important details, conversations, or responsibilities."
+   }
+},
+ {
+   "name": "frenetic",
+   "definition": "Wildly energetic and chaotic",
+   "bio": {
+      "group1": "PRN1 move through life with chaotic energy and rarely seem fully at ease.",
+      "group2": "PRN1 moves through life with chaotic energy and rarely seems fully at ease."
+   }
+},
+ {
+   "name": "frivolous",
+   "definition": "Lacks seriousness",
+   "bio": {
+      "group1": "Character treats serious matters lightly and may struggle to focus on important concerns.",
+      "group2": "Character treats serious matters lightly and may struggle to focus on important concerns."
+   }
+},
+ {
+   "name": "gloomy",
+   "definition": "Often sad or pessimistic",
+   "bio": {
+      "group1": "PRN1 often dwell on negative possibilities and find it difficult to stay optimistic.",
+      "group2": "PRN1 often dwells on negative possibilities and finds it difficult to stay optimistic."
+   }
+},
+ {
+   "name": "greedy",
+   "definition": "Wants more than needed",
+   "bio": {
+      "group1": "Character constantly wants more wealth, status, or possessions than PRN1 truly need.",
+      "group2": "Character constantly wants more wealth, status, or possessions than PRN1 truly need."
+   }
+},
+ {
+   "name": "grim",
+   "definition": "Harsh and joyless",
+   "bio": {
+      "group1": "PRN1 approach life with a severe outlook and rarely seem cheerful or lighthearted.",
+      "group2": "PRN1 approaches life with a severe outlook and rarely seems cheerful or lighthearted."
+   }
+},
+ {
+   "name": "gullible",
+   "definition": "Easily fooled",
+   "bio": {
+      "group1": "Character is quick to trust what PRN1 hear and can be easily misled.",
+      "group2": "Character is quick to trust what PRN1 hear and can be easily misled."
+   }
+},
+ {
+   "name": "hateful",
+   "definition": "Filled with dislike",
+   "bio": {
+      "group1": "PRN1 hold deep hostility toward people, groups, or ideas PRN1 dislike.",
+      "group2": "PRN1 holds deep hostility toward people, groups, or ideas PRN1 dislike."
+   }
+},
+ {
+   "name": "Hedonistic",
+   "definition": "Focused mainly on pleasure",
+   "bio": {
+      "group1": "Character places personal pleasure above most other priorities and responsibilities.",
+      "group2": "Character places personal pleasure above most other priorities and responsibilities."
+   }
+},
+ {
+   "name": "hostile",
+   "definition": "Openly unfriendly",
+   "bio": {
+      "group1": "PRN1 frequently approach others with suspicion, aggression, or open resentment.",
+      "group2": "PRN1 frequently approaches others with suspicion, aggression, or open resentment."
+   }
+},
+ {
+   "name": "hypocritical",
+   "definition": "Says one thing, does another",
+   "bio": {
+      "group1": "Character expects standards from others that PRN1 do not consistently follow PRN2selves.",
+      "group2": "Character expects standards from others that PRN1 do not consistently follow PRN2selves."
+   }
+},
+ {
+   "name": "ignorant",
+   "definition": "Lacking important knowledge",
+   "bio": {
+      "group1": "PRN1 lack important knowledge and often show little awareness of what PRN1 do not know.",
+      "group2": "PRN1 lacks important knowledge and often shows little awareness of what PRN1 does not know."
+   }
+},
+ {
+   "name": "imitative",
+   "definition": "Copies others excessively",
+   "bio": {
+      "group1": "Character relies heavily on copying others rather than developing PRN3 own identity.",
+      "group2": "Character relies heavily on copying others rather than developing PRN3 own identity."
+   }
+},
+ {
+   "name": "impatient",
+   "definition": "Dislikes waiting",
+   "bio": {
+      "group1": "PRN1 become frustrated quickly when results, answers, or progress take time.",
+      "group2": "PRN1 becomes frustrated quickly when results, answers, or progress take time."
+   }
+},
+ {
+   "name": "Impetuous",
+   "definition": "Acts without thinking",
+   "bio": {
+      "group1": "Character acts quickly on impulse and frequently moves forward without considering consequences.",
+      "group2": "Character acts quickly on impulse and frequently moves forward without considering consequences."
+   }
+},
+ {
+   "name": "impractical",
+   "definition": "Not realistic or useful",
+   "bio": {
+      "group1": "PRN1 focus on ideas or plans that are difficult to apply in real situations.",
+      "group2": "PRN1 focuses on ideas or plans that are difficult to apply in real situations."
+   }
+},
+ {
+   "name": "incurious",
+   "definition": "Shows little interest in learning",
+   "bio": {
+      "group1": "Character shows little interest in learning new information or expanding PRN3 understanding.",
+      "group2": "Character shows little interest in learning new information or expanding PRN3 understanding."
+   }
+},
+ {
+   "name": "indecisive",
+   "definition": "Struggles to choose",
+   "bio": {
+      "group1": "PRN1 struggle to commit to choices and often second-guess PRN3 decisions.",
+      "group2": "PRN1 struggles to commit to choices and often second-guesses PRN3 decisions."
+   }
+},
+ {
+   "name": "insecure",
+   "definition": "Lacks self-confidence",
+   "bio": {
+      "group1": "Character doubts PRN3 own worth and frequently worries about how others perceive PRN2.",
+      "group2": "Character doubts PRN3 own worth and frequently worries about how others perceive PRN2."
+   }
+},
+ {
+   "name": "Insensitive",
+   "definition": "Unaware of others feelings",
+   "bio": {
+      "group1": "PRN1 often fail to recognize or respond appropriately to the feelings of others.",
+      "group2": "PRN1 often fails to recognize or respond appropriately to the feelings of others."
+   }
+},
+ {
+   "name": "Intolerant",
+   "definition": "Unwilling to accept differences",
+   "bio": {
+      "group1": "Character has difficulty accepting viewpoints, lifestyles, or beliefs that differ from PRN3 own.",
+      "group2": "Character has difficulty accepting viewpoints, lifestyles, or beliefs that differ from PRN3 own."
+   }
+},
+ {
+   "name": "irascible",
+   "definition": "Easily angered",
+   "bio": {
+      "group1": "PRN1 are quick to anger and can become irritated over relatively small issues.",
+      "group2": "PRN1 is quick to anger and can become irritated over relatively small issues."
+   }
+},
+ {
+   "name": "jealous",
+   "definition": "Resents rivals or attention",
+   "bio": {
+      "group1": "Character feels threatened by the attention, success, or relationships of other people.",
+      "group2": "Character feels threatened by the attention, success, or relationships of other people."
+   }
+},
+ {
+   "name": "judgemental",
+   "definition": "Quick to criticize others",
+   "bio": {
+      "group1": "PRN1 are quick to criticize others and frequently form negative conclusions.",
+      "group2": "PRN1 is quick to criticize others and frequently forms negative conclusions."
+   }
+},
+ {
+   "name": "lazy",
+   "definition": "Avoids effort",
+   "bio": {
+      "group1": "Character avoids effort whenever possible and often leaves important work unfinished.",
+      "group2": "Character avoids effort whenever possible and often leaves important work unfinished."
+   }
+},
+ {
+   "name": "lonely",
+   "definition": "Lacks meaningful connections",
+   "bio": {
+      "group1": "PRN1 struggle to form meaningful connections and often feel isolated from others.",
+      "group2": "PRN1 struggles to form meaningful connections and often feels isolated from others."
+   }
+},
+ {
+   "name": "machiavellian",
+   "definition": "Manipulates others strategically",
+   "bio": {
+      "group1": "Character carefully manipulates people and situations to gain advantage.",
+      "group2": "Character carefully manipulates people and situations to gain advantage."
+   }
+},
+ {
+   "name": "malcontent",
+   "definition": "Chronically dissatisfied",
+   "bio": {
+      "group1": "PRN1 are rarely satisfied and almost always find something to complain about.",
+      "group2": "PRN1 is rarely satisfied and almost always finds something to complain about."
+   }
+},
+ {
+   "name": "manipulative",
+   "definition": "Controls others indirectly",
+   "bio": {
+      "group1": "Character influences others through pressure, deception, or emotional tactics.",
+      "group2": "Character influences others through pressure, deception, or emotional tactics."
+   }
+},
+ {
+   "name": "mean-spirited",
+   "definition": "Unkind and spiteful",
+   "bio": {
+      "group1": "PRN1 often take pleasure in mocking, belittling, or hurting other people.",
+      "group2": "PRN1 often takes pleasure in mocking, belittling, or hurting other people."
+   }
+},
+ {
+   "name": "meddlesome",
+   "definition": "Interferes in others affairs",
+   "bio": {
+      "group1": "Character frequently interferes in situations that do not concern PRN2.",
+      "group2": "Character frequently interferes in situations that do not concern PRN2."
+   }
+},
+ {
+   "name": "Merciless",
+   "definition": "Shows no compassion",
+   "bio": {
+      "group1": "PRN1 show little compassion when others are struggling or seeking forgiveness.",
+      "group2": "PRN1 shows little compassion when others are struggling or seeking forgiveness."
+   }
+},
+ {
+   "name": "Miserly",
+   "definition": "Unwilling to spend or share",
+   "bio": {
+      "group1": "Character is extremely reluctant to spend, share, or part with resources.",
+      "group2": "Character is extremely reluctant to spend, share, or part with resources."
+   }
+},
+ {
+   "name": "Moody",
+   "definition": "Emotions change often",
+   "bio": {
+      "group1": "Character's emotional state shifts frequently, making PRN3 reactions difficult for others to anticipate.",
+      "group2": "Character's emotional state shifts frequently, making PRN3 reactions difficult for others to anticipate."
+   }
+},
+ {
+   "name": "naive",
+   "definition": "Lacks experience or awareness",
+   "bio": {
+      "group1": "PRN1 tend to trust easily and may overlook risks that more experienced people would notice.",
+      "group2": "PRN1 tends to trust easily and may overlook risks that more experienced people would notice."
+   }
+},
+ {
+   "name": "Narcissistic",
+   "definition": "Obsessed with self-importance",
+   "bio": {
+      "group1": "Character is heavily focused on PRN3 own importance and often seeks admiration from others.",
+      "group2": "Character is heavily focused on PRN3 own importance and often seeks admiration from others."
+   }
+},
+ {
+   "name": "narrow-minded",
+   "definition": "Unwilling to consider new ideas",
+   "bio": {
+      "group1": "PRN1 are reluctant to consider unfamiliar ideas and prefer perspectives that reinforce existing beliefs.",
+      "group2": "PRN1 is reluctant to consider unfamiliar ideas and prefers perspectives that reinforce existing beliefs."
+   }
+},
+ {
+   "name": "neglectful",
+   "definition": "Fails to provide care",
+   "bio": {
+      "group1": "Character often fails to give people, responsibilities, or commitments the attention PRN1 require.",
+      "group2": "Character often fails to give people, responsibilities, or commitments the attention PRN1 require."
+   }
+},
+ {
+   "name": "obnoxious",
+   "definition": "Highly annoying",
+   "bio": {
+      "group1": "PRN1 frequently behave in ways that annoy, frustrate, or alienate the people around PRN2.",
+      "group2": "PRN1 frequently behaves in ways that annoys, frustrates, or alienates the people around PRN2."
+   }
+},
+ {
+   "name": "obsessive",
+   "definition": "Fixated on specific things",
+   "bio": {
+      "group1": "Character becomes intensely fixated on specific interests, goals, or concerns.",
+      "group2": "Character becomes intensely fixated on specific interests, goals, or concerns."
+   }
+},
+ {
+   "name": "Opportunistic",
+   "definition": "Takes advantage of situations",
+   "bio": {
+      "group1": "PRN1 are quick to take advantage of situations that might benefit PRN2 personally.",
+      "group2": "PRN1 is quick to take advantage of situations that might benefit PRN2 personally."
+   }
+},
+ {
+   "name": "oversharing",
+   "definition": "Reveals too much personal information",
+   "bio": {
+      "group1": "Character regularly reveals personal information that many people would choose to keep private.",
+      "group2": "Character regularly reveals personal information that many people would choose to keep private."
+   }
+},
+ {
+   "name": "paranoid",
+   "definition": "Excessively suspicious",
+   "bio": {
+      "group1": "PRN1 often suspect hidden threats or harmful intentions even when evidence is lacking.",
+      "group2": "PRN1 often suspects hidden threats or harmful intentions even when evidence is lacking."
+   }
+},
+ {
+   "name": "passive",
+   "definition": "Avoids taking action",
+   "bio": {
+      "group1": "Character tends to avoid taking initiative and often waits for others to act first.",
+      "group2": "Character tends to avoid taking initiative and often waits for others to act first."
+   }
+},
+ {
+   "name": "pessimistic",
+   "definition": "Expects bad outcomes",
+   "bio": {
+      "group1": "Character expects setbacks and often assumes situations will turn out poorly.",
+      "group2": "Character expects setbacks and often assumes situations will turn out poorly."
+   }
+},
+ {
+   "name": "petty",
+   "definition": "Concerned with small grievances",
+   "bio": {
+      "group1": "PRN1 become focused on small grievances and may hold onto minor frustrations longer than necessary.",
+      "group2": "PRN1 becomes focused on small grievances and may hold onto minor frustrations longer than necessary."
+   }
+},
+ {
+   "name": "pitiless",
+   "definition": "Shows no sympathy",
+   "bio": {
+      "group1": "Character shows little sympathy toward those who are suffering or struggling.",
+      "group2": "Character shows little sympathy toward those who are suffering or struggling."
+   }
+},
+ {
+   "name": "possessive",
+   "definition": "Overly protective of people or things",
+   "bio": {
+      "group1": "PRN1 become overly attached to people, relationships, or belongings and have difficulty letting go.",
+      "group2": "PRN1 becomes overly attached to people, relationships, or belongings and has difficulty letting go."
+   }
+},
+ {
+   "name": "power-hungry",
+   "definition": "Desires control and authority",
+   "bio": {
+      "group1": "Character actively seeks influence and often wants greater control over situations and people.",
+      "group2": "Character actively seeks influence and often wants greater control over situations and people."
+   }
+},
+ {
+   "name": "pretentious",
+   "definition": "Tries to seem more important",
+   "bio": {
+      "group1": "PRN1 try to appear more impressive, sophisticated, or important than PRN1 truly are.",
+      "group2": "PRN1 tries to appear more impressive, sophisticated, or important than PRN1 truly is."
+   }
+},
+ {
+   "name": "procrastinating",
+   "definition": "Delays important tasks",
+   "bio": {
+      "group1": "Character delays important responsibilities and often puts off tasks until the last moment.",
+      "group2": "Character delays important responsibilities and often puts off tasks until the last moment."
+   }
+},
+ {
+   "name": "rash",
+   "definition": "Acts without caution",
+   "bio": {
+      "group1": "PRN1 make decisions quickly without fully considering possible consequences.",
+      "group2": "PRN1 makes decisions quickly without fully considering possible consequences."
+   }
+},
+ {
+   "name": "Reckless",
+   "definition": "Ignores risks",
+   "bio": {
+      "group1": "Character takes unnecessary risks and often ignores warnings or potential dangers.",
+      "group2": "Character takes unnecessary risks and often ignores warnings or potential dangers."
+   }
+},
+ {
+   "name": "regretful",
+   "definition": "Troubled by past actions",
+   "bio": {
+      "group1": "PRN1 spend considerable time dwelling on past mistakes and missed opportunities.",
+      "group2": "PRN1 spends considerable time dwelling on past mistakes and missed opportunities."
+   }
+},
+ {
+   "name": "Remorseless",
+   "definition": "Feels no guilt",
+   "bio": {
+      "group1": "Character rarely feels guilt or sympathy after causing harm to others.",
+      "group2": "Character rarely feels guilt or sympathy after causing harm to others."
+   }
+},
+ {
+   "name": "repressed",
+   "definition": "Hides emotions excessively",
+   "bio": {
+      "group1": "PRN1 suppress emotions and personal desires rather than expressing PRN2 openly.",
+      "group2": "PRN1 suppresses emotions and personal desires rather than expressing PRN2 openly."
+   }
+},
+ {
+   "name": "resentful",
+   "definition": "Holds onto bitterness",
+   "bio": {
+      "group1": "Character holds onto feelings of bitterness and has difficulty letting old grievances go.",
+      "group2": "Character holds onto feelings of bitterness and has difficulty letting old grievances go."
+   }
+},
+ {
+   "name": "rigid",
+   "definition": "Unwilling to adapt",
+   "bio": {
+      "group1": "PRN1 strongly resist change and prefer sticking to familiar routines or beliefs.",
+      "group2": "PRN1 strongly resists change and prefers sticking to familiar routines or beliefs."
+   }
+},
+ {
+   "name": "sadistic",
+   "definition": "Enjoys others suffering",
+   "bio": {
+      "group1": "Character takes satisfaction in the pain, discomfort, or humiliation of others.",
+      "group2": "Character takes satisfaction in the pain, discomfort, or humiliation of others."
+   }
+},
+ {
+   "name": "sanctimonious",
+   "definition": "Acts morally superior",
+   "bio": {
+      "group1": "PRN1 present PRN2selves as morally superior and often judge others from that position.",
+      "group2": "PRN1 presents PRN2self as morally superior and often judges others from that position."
+   }
+},
+ {
+   "name": "scheming",
+   "definition": "Secretly plans manipulation",
+   "bio": {
+      "group1": "Character frequently devises secret plans intended to advance PRN3 own interests.",
+      "group2": "Character frequently devises secret plans intended to advance PRN3 own interests."
+   }
+},
+ {
+   "name": "scornful",
+   "definition": "Shows contempt for others",
+   "bio": {
+      "group1": "PRN1 look down on others and openly display contempt for people PRN1 dislike.",
+      "group2": "PRN1 looks down on others and openly displays contempt for people PRN1 dislike."
+   }
+},
+ {
+   "name": "self-righteous",
+   "definition": "Believes always morally correct",
+   "bio": {
+      "group1": "Character strongly believes PRN3 views are morally correct and rarely questions PRN2selves.",
+      "group2": "Character strongly believes PRN3 views are morally correct and rarely questions PRN2selves."
+   }
+},
+ {
+   "name": "selfish",
+   "definition": "Puts self first",
+   "bio": {
+      "group1": "Character places PRN3 own wants and needs ahead of those around PRN2.",
+      "group2": "Character places PRN3 own wants and needs ahead of those around PRN2."
+   }
+},
+ {
+   "name": "severe",
+   "definition": "Harsh and unforgiving",
+   "bio": {
+      "group1": "PRN1 approach situations with harsh standards and little tolerance for mistakes.",
+      "group2": "PRN1 approaches situations with harsh standards and little tolerance for mistakes."
+   }
+},
+ {
+   "name": "shortsighted",
+   "definition": "Focuses only on immediate concerns",
+   "bio": {
+      "group1": "Character focuses on immediate results without fully considering long-term consequences.",
+      "group2": "Character focuses on immediate results without fully considering long-term consequences."
+   }
+},
+ {
+   "name": "single-minded",
+   "definition": "Obsessed with one goal",
+   "bio": {
+      "group1": "PRN1 become so focused on one objective that other priorities are often ignored.",
+      "group2": "PRN1 becomes so focused on one objective that other priorities are often ignored."
+   }
+},
+ {
+   "name": "sloppy",
+   "definition": "Careless and messy",
+   "bio": {
+      "group1": "Character pays little attention to organization, details, or quality.",
+      "group2": "Character pays little attention to organization, details, or quality."
+   }
+},
+ {
+   "name": "Spineless",
+   "definition": "Lacks courage to stand up",
+   "bio": {
+      "group1": "PRN1 struggle to stand up for PRN2selves when faced with pressure or opposition.",
+      "group2": "PRN1 struggles to stand up for PRN2self when faced with pressure or opposition."
+   }
+},
+ {
+   "name": "spiteful",
+   "definition": "Acts to hurt others",
+   "bio": {
+      "group1": "Character sometimes acts with the specific intention of hurting or upsetting others.",
+      "group2": "Character sometimes acts with the specific intention of hurting or upsetting others."
+   }
+},
+ {
+   "name": "submissive",
+   "definition": "Gives in too easily",
+   "bio": {
+      "group1": "PRN1 yield easily to stronger personalities and rarely assert PRN3 own wishes.",
+      "group2": "PRN1 yields easily to stronger personalities and rarely asserts PRN3 own wishes."
+   }
+},
+ {
+   "name": "superficial",
+   "definition": "Focuses on appearances",
+   "bio": {
+      "group1": "Character places more importance on appearances than deeper qualities or substance.",
+      "group2": "Character places more importance on appearances than deeper qualities or substance."
+   }
+},
+ {
+   "name": "suspicious",
+   "definition": "Distrusts others easily",
+   "bio": {
+      "group1": "PRN1 are slow to trust and often assume others may have hidden motives.",
+      "group2": "PRN1 is slow to trust and often assumes others may have hidden motives."
+   }
+},
+ {
+   "name": "tactless",
+   "definition": "Lacks social sensitivity",
+   "bio": {
+      "group1": "Character speaks without considering how PRN3 words may affect other people's feelings.",
+      "group2": "Character speaks without considering how PRN3 words may affect other people's feelings."
+   }
+},
+ {
+   "name": "tedious",
+   "definition": "Boring and repetitive",
+   "bio": {
+      "group1": "PRN1 can be repetitive or uninteresting, making interactions feel longer than they need to be.",
+      "group2": "PRN1 can be repetitive or uninteresting, making interactions feel longer than they need to be."
+   }
+},
+ {
+   "name": "Temperamental",
+   "definition": "Prone to emotional outbursts",
+   "bio": {
+      "group1": "Character's emotions can flare suddenly, leading to unpredictable reactions.",
+      "group2": "Character's emotions can flare suddenly, leading to unpredictable reactions."
+   }
+},
+ {
+   "name": "thin-skinned",
+   "definition": "Easily offended",
+   "bio": {
+      "group1": "PRN1 take criticism personally and are easily hurt by negative comments.",
+      "group2": "PRN1 takes criticism personally and is easily hurt by negative comments."
+   }
+},
+ {
+   "name": "timid",
+   "definition": "Lacks confidence and courage",
+   "bio": {
+      "group1": "Character lacks confidence in unfamiliar situations and often hesitates to take risks.",
+      "group2": "Character lacks confidence in unfamiliar situations and often hesitates to take risks."
+   }
+},
+ {
+   "name": "Touchy",
+   "definition": "Easily upset by comments",
+   "bio": {
+      "group1": "PRN1 are quick to feel offended and may react strongly to minor remarks.",
+      "group2": "PRN1 is quick to feel offended and may react strongly to minor remarks."
+   }
+},
+ {
+   "name": "Treacherous",
+   "definition": "Likely to betray others",
+   "bio": {
+      "group1": "Character is willing to betray trust when doing so serves PRN3 interests.",
+      "group2": "Character is willing to betray trust when doing so serves PRN3 interests."
+   }
+},
+ {
+   "name": "Uncooperative",
+   "definition": "Unwilling to work with others",
+   "bio": {
+      "group1": "PRN1 resist working with others and often create obstacles in group efforts.",
+      "group2": "PRN1 resists working with others and often creates obstacles in group efforts."
+   }
+},
+ {
+   "name": "Unpredictable",
+   "definition": "Difficult to anticipate",
+   "bio": {
+      "group1": "Character's actions and decisions are difficult to anticipate, often surprising the people around PRN2.",
+      "group2": "Character's actions and decisions are difficult to anticipate, often surprising the people around PRN2."
+   }
+},
+ {
+   "name": "unstable",
+   "definition": "Emotionally or mentally inconsistent",
+   "bio": {
+      "group1": "PRN1 struggle to maintain consistent emotions, behavior, or priorities over extended periods.",
+      "group2": "PRN1 struggles to maintain consistent emotions, behavior, or priorities over extended periods."
+   }
+},
+ {
+   "name": "Vengeful",
+   "definition": "Seeks revenge",
+   "bio": {
+      "group1": "Character has difficulty letting go of perceived wrongs and often seeks ways to settle old scores.",
+      "group2": "Character has difficulty letting go of perceived wrongs and often seeks ways to settle old scores."
+   }
+},
+ {
+   "name": "vindictive",
+   "definition": "Holds grudges and retaliates",
+   "bio": {
+      "group1": "PRN1 are willing to retaliate against people who have hurt or offended PRN2, sometimes long after the original conflict.",
+      "group2": "PRN1 is willing to retaliate against people who have hurt or offended PRN2, sometimes long after the original conflict."
+   }
+},
+ {
+   "name": "volatile",
+   "definition": "Changes mood suddenly",
+   "bio": {
+      "group1": "Character's mood and reactions can change suddenly, causing situations to escalate without warning.",
+      "group2": "Character's mood and reactions can change suddenly, causing situations to escalate without warning."
+   }
+},
+ {
+   "name": "whiny",
+   "definition": "Complains frequently",
+   "bio": {
+      "group1": "PRN1 frequently focus on inconveniences and express dissatisfaction more often than the people around PRN2.",
+      "group2": "PRN1 frequently focuses on inconveniences and expresses dissatisfaction more often than the people around PRN2."
+   }
+},
+ {
+   "name": "Workaholic",
+   "definition": "Works excessively",
+   "bio": {
+      "group1": "Character devotes excessive time and energy to work, often at the expense of rest, relationships, or personal well-being.",
+      "group2": "Character devotes excessive time and energy to work, often at the expense of rest, relationships, or personal well-being."
+   }
+}
+]

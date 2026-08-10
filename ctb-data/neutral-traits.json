@@ -1,0 +1,1194 @@
+[
+ {
+   "name": "absentminded",
+   "description": "Often forgets small things",
+   "bio": {
+      "group1": "Character occasionally loses track of small details and may forget minor tasks while focused on something else.",
+      "group2": "Character occasionally loses track of small details and may forget minor tasks while focused on something else."
+   }
+},
+ {
+   "name": "academic",
+   "description": "Focused on learning and study",
+   "bio": {
+      "group1": "PRN1 enjoy learning, studying, and expanding PRN3 understanding through research and knowledge.",
+      "group2": "PRN1 enjoys learning, studying, and expanding PRN3 understanding through research and knowledge."
+   }
+},
+ {
+   "name": "active",
+   "description": "Frequently engaged in exercise",
+   "bio": {
+      "group1": "Character prefers staying busy and often fills PRN3 time with activities, projects, or movement.",
+      "group2": "Character prefers staying busy and often fills PRN3 time with activities, projects, or movement."
+   }
+},
+ {
+   "name": "ambitious",
+   "description": "Seeks achievement and success",
+   "bio": {
+      "group1": "PRN1 set challenging goals for PRN2selves and are strongly motivated to achieve success.",
+      "group2": "PRN1 sets challenging goals for PRN2self and is strongly motivated to achieve success."
+   }
+},
+ {
+   "name": "analytical",
+   "description": "Examines things carefully",
+   "bio": {
+      "group1": "Character likes to examine information carefully before forming conclusions or making decisions.",
+      "group2": "Character likes to examine information carefully before forming conclusions or making decisions."
+   }
+},
+ {
+   "name": "artistic",
+   "description": "Interested in creative expression",
+   "bio": {
+      "group1": "PRN1 are drawn to creative expression and enjoy finding unique ways to share ideas.",
+      "group2": "PRN1 is drawn to creative expression and enjoys finding unique ways to share ideas."
+   }
+},
+ {
+   "name": "ascetic",
+   "description": "Lives with few comforts",
+   "bio": {
+      "group1": "Character is comfortable living with few luxuries and rarely places much importance on material comforts.",
+      "group2": "Character is comfortable living with few luxuries and rarely places much importance on material comforts."
+   }
+},
+ {
+   "name": "blunt",
+   "description": "Speaks very directly",
+   "bio": {
+      "group1": "PRN1 usually say exactly what PRN1 think, even when PRN3 honesty catches people off guard.",
+      "group2": "PRN1 usually says exactly what PRN1 thinks, even when PRN3 honesty catches people off guard."
+   }
+},
+ {
+   "name": "calculating",
+   "description": "Carefully plans actions",
+   "bio": {
+      "group1": "Character carefully considers possible outcomes before deciding how to act.",
+      "group2": "Character carefully considers possible outcomes before deciding how to act."
+   }
+},
+ {
+   "name": "capricious",
+   "description": "Changes decisions unpredictably",
+   "bio": {
+      "group1": "PRN1 may change PRN3 mind unexpectedly, making PRN3 decisions difficult to predict.",
+      "group2": "PRN1 may change PRN3 mind unexpectedly, making PRN3 decisions difficult to predict."
+   }
+},
+ {
+   "name": "casual",
+   "description": "Relaxed and informal",
+   "bio": {
+      "group1": "Character approaches most situations with a relaxed attitude and little formality.",
+      "group2": "Character approaches most situations with a relaxed attitude and little formality."
+   }
+},
+ {
+   "name": "cautious",
+   "description": "Careful about risks",
+   "bio": {
+      "group1": "PRN1 prefer to think through potential risks before committing to a course of action.",
+      "group2": "PRN1 prefers to think through potential risks before committing to a course of action."
+   }
+},
+ {
+   "name": "cavalier",
+   "description": "Acts without much concern",
+   "bio": {
+      "group1": "Character often takes situations in stride and may seem unconcerned by challenges that worry others.",
+      "group2": "Character often takes situations in stride and may seem unconcerned by challenges that worry others."
+   }
+},
+ {
+   "name": "Cerebral",
+   "description": "Focused on thinking and ideas",
+   "bio": {
+      "group1": "PRN1 enjoy exploring ideas, theories, and intellectual discussions more than hands-on activities.",
+      "group2": "PRN1 enjoys exploring ideas, theories, and intellectual discussions more than hands-on activities."
+   }
+},
+ {
+   "name": "Chatty",
+   "description": "Talks frequently",
+   "bio": {
+      "group1": "Character enjoys conversation and rarely struggles to find something to talk about.",
+      "group2": "Character enjoys conversation and rarely struggles to find something to talk about."
+   }
+},
+ {
+   "name": "competitive",
+   "description": "Enjoys trying to win",
+   "bio": {
+      "group1": "PRN1 are motivated by challenges and often enjoy measuring PRN3 success against others.",
+      "group2": "PRN1 is motivated by challenges and often enjoys measuring PRN3 success against others."
+   }
+},
+ {
+   "name": "complacent",
+   "description": "Comfortable with current situation",
+   "bio": {
+      "group1": "Character is generally satisfied with how things are and may feel little urgency to change.",
+      "group2": "Character is generally satisfied with how things are and may feel little urgency to change."
+   }
+},
+ {
+   "name": "conformist",
+   "description": "Follows group norms",
+   "bio": {
+      "group1": "PRN1 are comfortable following established expectations and fitting into existing social norms.",
+      "group2": "PRN1 is comfortable following established expectations and fitting into existing social norms."
+   }
+},
+ {
+   "name": "contemplative",
+   "description": "Spends time reflecting",
+   "bio": {
+      "group1": "Character spends a great deal of time reflecting on experiences, ideas, and possibilities.",
+      "group2": "Character spends a great deal of time reflecting on experiences, ideas, and possibilities."
+   }
+},
+ {
+   "name": "Conventional",
+   "description": "Prefers traditional ways",
+   "bio": {
+      "group1": "PRN1 tend to prefer familiar approaches and trusted traditions over experimentation.",
+      "group2": "PRN1 tends to prefer familiar approaches and trusted traditions over experimentation."
+   }
+},
+ {
+   "name": "Daring",
+   "description": "Willing to take risks",
+   "bio": {
+      "group1": "Character is often willing to take risks that others might avoid.",
+      "group2": "Character is often willing to take risks that others might avoid."
+   }
+},
+ {
+   "name": "daydreamer",
+   "description": "Often lost in thought",
+   "bio": {
+      "group1": "PRN1 frequently drift into imagination or reflection, especially during quiet moments.",
+      "group2": "PRN1 frequently drifts into imagination or reflection, especially during quiet moments."
+   }
+},
+ {
+   "name": "Deferential",
+   "description": "Shows respect to others",
+   "bio": {
+      "group1": "Character shows respect toward authority, experience, or the opinions of others.",
+      "group2": "Character shows respect toward authority, experience, or the opinions of others."
+   }
+},
+ {
+   "name": "Deliberate",
+   "description": "Acts with careful thought",
+   "bio": {
+      "group1": "PRN1 take time to think things through and rarely rush important decisions.",
+      "group2": "PRN1 takes time to think things through and rarely rushes important decisions."
+   }
+},
+ {
+   "name": "detached",
+   "description": "Emotionally distant",
+   "bio": {
+      "group1": "Character sometimes keeps emotional distance between PRN2selves and the events around PRN2.",
+      "group2": "Character sometimes keeps emotional distance between PRN2selves and the events around PRN2."
+   }
+},
+ {
+   "name": "Direct",
+   "description": "Communicates plainly and clearly",
+   "bio": {
+      "group1": "PRN1 communicate plainly and prefer straightforward conversations over subtle hints.",
+      "group2": "PRN1 communicates plainly and prefers straightforward conversations over subtle hints."
+   }
+},
+ {
+   "name": "dogmatic",
+   "description": "Strongly attached to beliefs",
+   "bio": {
+      "group1": "Character holds firmly to PRN3 beliefs and is not easily persuaded to change PRN2.",
+      "group2": "Character holds firmly to PRN3 beliefs and is not easily persuaded to change PRN2."
+   }
+},
+ {
+   "name": "dramatic",
+   "description": "Expresses emotions noticeably",
+   "bio": {
+      "group1": "PRN1 express emotions openly and can make ordinary events feel larger than life.",
+      "group2": "PRN1 expresses emotions openly and can make ordinary events feel larger than life."
+   }
+},
+ {
+   "name": "dry",
+   "description": "Shows subtle emotion or humor",
+   "bio": {
+      "group1": "Character's humor and reactions are often understated, requiring others to pay close attention.",
+      "group2": "Character's humor and reactions are often understated, requiring others to pay close attention."
+   }
+},
+ {
+   "name": "Dutiful",
+   "description": "Fulfills responsibilities faithfully",
+   "bio": {
+      "group1": "PRN1 take responsibilities seriously and usually follow through on PRN3 commitments.",
+      "group2": "PRN1 takes responsibilities seriously and usually follows through on PRN3 commitments."
+   }
+},
+ {
+   "name": "easygoing",
+   "description": "Relaxed and untroubled",
+   "bio": {
+      "group1": "Character rarely becomes stressed by minor problems and generally goes with the flow.",
+      "group2": "Character rarely becomes stressed by minor problems and generally goes with the flow."
+   }
+},
+ {
+   "name": "Eclectic",
+   "description": "Interested in many different things",
+   "bio": {
+      "group1": "PRN1 enjoy drawing inspiration from many different interests, ideas, and influences.",
+      "group2": "PRN1 enjoys drawing inspiration from many different interests, ideas, and influences."
+   }
+},
+ {
+   "name": "emotional",
+   "description": "Strongly affected by feelings",
+   "bio": {
+      "group1": "Character experiences feelings deeply and often lets those feelings shape PRN3 reactions.",
+      "group2": "Character experiences feelings deeply and often lets those feelings shape PRN3 reactions."
+   }
+},
+ {
+   "name": "enigmatic",
+   "description": "Difficult to understand",
+   "bio": {
+      "group1": "PRN1 reveal little about PRN2selves, leaving others curious about PRN3 true thoughts.",
+      "group2": "PRN1 reveals little about PRN2self, leaving others curious about PRN3 true thoughts."
+   }
+},
+ {
+   "name": "esthetic",
+   "description": "Appreciates beauty and design",
+   "bio": {
+      "group1": "Character has a strong appreciation for beauty, design, and artistic presentation.",
+      "group2": "Character has a strong appreciation for beauty, design, and artistic presentation."
+   }
+},
+ {
+   "name": "excitable",
+   "description": "Easily enthusiastic or emotional",
+   "bio": {
+      "group1": "PRN1 react enthusiastically to events and are easily energized by new developments.",
+      "group2": "PRN1 reacts enthusiastically to events and is easily energized by new developments."
+   }
+},
+ {
+   "name": "experimental",
+   "description": "Likes trying new approaches",
+   "bio": {
+      "group1": "Character likes testing new methods and exploring alternatives to conventional approaches.",
+      "group2": "Character likes testing new methods and exploring alternatives to conventional approaches."
+   }
+},
+ {
+   "name": "Exploratory",
+   "description": "Enjoys discovering new things",
+   "bio": {
+      "group1": "PRN1 enjoy discovering unfamiliar places, concepts, and experiences whenever possible.",
+      "group2": "PRN1 enjoys discovering unfamiliar places, concepts, and experiences whenever possible."
+   }
+},
+ {
+   "name": "expressive",
+   "description": "Shows thoughts and feelings openly",
+   "bio": {
+      "group1": "Character communicates thoughts and feelings openly through words, actions, or creativity.",
+      "group2": "Character communicates thoughts and feelings openly through words, actions, or creativity."
+   }
+},
+ {
+   "name": "extravagant",
+   "description": "Uses more than necessary",
+   "bio": {
+      "group1": "PRN1 tend to spend resources freely and may enjoy excess more than moderation.",
+      "group2": "PRN1 tends to spend resources freely and may enjoy excess more than moderation."
+   }
+},
+ {
+   "name": "extroverted",
+   "description": "Gains energy from people",
+   "bio": {
+      "group1": "Character gains energy from social interaction and often seeks opportunities to connect with others.",
+      "group2": "Character gains energy from social interaction and often seeks opportunities to connect with others."
+   }
+},
+ {
+   "name": "family-oriented",
+   "description": "Values family highly",
+   "bio": {
+      "group1": "PRN1 place a high value on family relationships and prioritize maintaining those connections.",
+      "group2": "PRN1 places a high value on family relationships and prioritizes maintaining those connections."
+   }
+},
+ {
+   "name": "feisty",
+   "description": "Spirited and energetic",
+   "bio": {
+      "group1": "Character brings spirited energy into conversations and rarely backs away from challenges.",
+      "group2": "Character brings spirited energy into conversations and rarely backs away from challenges."
+   }
+},
+ {
+   "name": "flamboyant",
+   "description": "Draws attention through style",
+   "bio": {
+      "group1": "PRN1 enjoy standing out and often express PRN2selves in bold or attention-grabbing ways.",
+      "group2": "PRN1 enjoys standing out and often expresses PRN2self in bold or attention-grabbing ways."
+   }
+},
+ {
+   "name": "flirtatious",
+   "description": "Playfully shows romantic interest",
+   "bio": {
+      "group1": "Character likes playful social interaction and may naturally project romantic interest.",
+      "group2": "Character likes playful social interaction and may naturally project romantic interest."
+   }
+},
+ {
+   "name": "Folksy",
+   "description": "Simple and down-to-earth",
+   "bio": {
+      "group1": "PRN1 come across as approachable, practical, and grounded in everyday experiences.",
+      "group2": "PRN1 comes across as approachable, practical, and grounded in everyday experiences."
+   }
+},
+ {
+   "name": "formal",
+   "description": "Follows rules and etiquette",
+   "bio": {
+      "group1": "Character prefers structure, etiquette, and clear expectations during social interactions.",
+      "group2": "Character prefers structure, etiquette, and clear expectations during social interactions."
+   }
+},
+ {
+   "name": "Frank",
+   "description": "Open and honest",
+   "bio": {
+      "group1": "PRN1 speak with honesty and openness rather than carefully filtering every opinion.",
+      "group2": "PRN1 speaks with honesty and openness rather than carefully filtering every opinion."
+   }
+},
+ {
+   "name": "frugal",
+   "description": "Careful with spending",
+   "bio": {
+      "group1": "Character watches PRN3 spending closely and prefers making thoughtful use of resources.",
+      "group2": "Character watches PRN3 spending closely and prefers making thoughtful use of resources."
+   }
+},
+ {
+   "name": "fun-loving",
+   "description": "Enjoys fun and entertainment",
+   "bio": {
+      "group1": "PRN1 actively seek enjoyment and often encourage others to relax and have fun.",
+      "group2": "PRN1 actively seeks enjoyment and often encourages others to relax and have fun."
+   }
+},
+ {
+   "name": "Guarded",
+   "description": "Careful about sharing feelings",
+   "bio": {
+      "group1": "Character is careful about sharing personal thoughts and usually reveals trust gradually.",
+      "group2": "Character is careful about sharing personal thoughts and usually reveals trust gradually."
+   }
+},
+ {
+   "name": "headstrong",
+   "description": "Strong-willed and determined",
+   "bio": {
+      "group1": "PRN1 are determined to follow PRN3 own judgment, even when others disagree.",
+      "group2": "PRN1 is determined to follow PRN3 own judgment, even when others disagree."
+   }
+},
+ {
+   "name": "homebody",
+   "description": "Prefers staying home",
+   "bio": {
+      "group1": "PRN1 are most comfortable in familiar surroundings and often prefer spending time at home.",
+      "group2": "PRN1 is most comfortable in familiar surroundings and often prefers spending time at home."
+   }
+},
+ {
+   "name": "humorless",
+   "description": "Rarely shows humor",
+   "bio": {
+      "group1": "Character tends to approach situations seriously and rarely relies on jokes or playful banter.",
+      "group2": "Character tends to approach situations seriously and rarely relies on jokes or playful banter."
+   }
+},
+ {
+   "name": "idealistic",
+   "description": "Guided by ideals",
+   "bio": {
+      "group1": "PRN1 are guided by strong ideals and often measure reality against what PRN1 believe is possible.",
+      "group2": "PRN1 is guided by strong ideals and often measures reality against what PRN1 believe is possible."
+   }
+},
+ {
+   "name": "image-conscious",
+   "description": "Concerned about appearance",
+   "bio": {
+      "group1": "Character pays close attention to how PRN1 are perceived by others.",
+      "group2": "Character pays close attention to how PRN1 are perceived by others."
+   }
+},
+ {
+   "name": "imaginative",
+   "description": "Creates ideas and possibilities",
+   "bio": {
+      "group1": "PRN1 frequently explore possibilities and enjoy thinking beyond ordinary expectations.",
+      "group2": "PRN1 frequently explores possibilities and enjoys thinking beyond ordinary expectations."
+   }
+},
+ {
+   "name": "impartial",
+   "description": "Treats sides equally",
+   "bio": {
+      "group1": "Character tries to treat people fairly and avoids taking sides without good reason.",
+      "group2": "Character tries to treat people fairly and avoids taking sides without good reason."
+   }
+},
+ {
+   "name": "impersonal",
+   "description": "Keeps emotions separate",
+   "bio": {
+      "group1": "PRN1 often separate emotions from decisions and prefer an objective approach.",
+      "group2": "PRN1 often separates emotions from decisions and prefers an objective approach."
+   }
+},
+ {
+   "name": "impressionable",
+   "description": "Easily influenced by others",
+   "bio": {
+      "group1": "Character is relatively open to influence and may absorb ideas from people around PRN2.",
+      "group2": "Character is relatively open to influence and may absorb ideas from people around PRN2."
+   }
+},
+ {
+   "name": "impulsive",
+   "description": "Acts without much planning",
+   "bio": {
+      "group1": "PRN1 sometimes act on the moment without fully considering long-term consequences.",
+      "group2": "PRN1 sometimes acts on the moment without fully considering long-term consequences."
+   }
+},
+ {
+   "name": "independent",
+   "description": "Prefers relying on themselves",
+   "bio": {
+      "group1": "Character prefers relying on PRN3 own abilities and making decisions for PRN2selves.",
+      "group2": "Character prefers relying on PRN3 own abilities and making decisions for PRN2self."
+   }
+},
+ {
+   "name": "individualistic",
+   "description": "Values personal uniqueness",
+   "bio": {
+      "group1": "PRN1 place strong value on personal identity and expressing PRN3 uniqueness.",
+      "group2": "PRN1 places strong value on personal identity and expressing PRN3 uniqueness."
+   }
+},
+ {
+   "name": "inexpressive",
+   "description": "Shows little emotion outwardly",
+   "bio": {
+      "group1": "Character keeps emotions private and may reveal little about how PRN1 feel.",
+      "group2": "Character keeps emotions private and may reveal little about how PRN1 feel."
+   }
+},
+ {
+   "name": "innocent",
+   "description": "Lacking worldly experience",
+   "bio": {
+      "group1": "PRN1 tend to see the world with openness and may assume good intentions in others.",
+      "group2": "PRN1 tends to see the world with openness and may assume good intentions in others."
+   }
+},
+ {
+   "name": "inoffensive",
+   "description": "Unlikely to upset others",
+   "bio": {
+      "group1": "Character generally avoids behavior that would upset or provoke the people around PRN2.",
+      "group2": "Character generally avoids behavior that would upset or provoke the people around PRN2."
+   }
+},
+ {
+   "name": "instinctual",
+   "description": "Guided by instincts",
+   "bio": {
+      "group1": "PRN1 often trust PRN3 gut feelings when deciding how to respond.",
+      "group2": "PRN1 often trusts PRN3 gut feelings when deciding how to respond."
+   }
+},
+ {
+   "name": "intense",
+   "description": "Shows strong focus or emotion",
+   "bio": {
+      "group1": "Character invests strong emotion, focus, or energy into the things that matter to PRN2.",
+      "group2": "Character invests strong emotion, focus, or energy into the things that matter to PRN2."
+   }
+},
+ {
+   "name": "introverted",
+   "description": "Gains energy from solitude",
+   "bio": {
+      "group1": "PRN1 often recharge through solitude and may prefer smaller social settings.",
+      "group2": "PRN1 often recharges through solitude and may prefer smaller social settings."
+   }
+},
+ {
+   "name": "irreligious",
+   "description": "Not religious",
+   "bio": {
+      "group1": "Character does not place much importance on religious beliefs or practices.",
+      "group2": "Character does not place much importance on religious beliefs or practices."
+   }
+},
+ {
+   "name": "irreverent",
+   "description": "Shows little respect for traditions",
+   "bio": {
+      "group1": "PRN1 are willing to question traditions and may not treat established customs as sacred.",
+      "group2": "PRN1 is willing to question traditions and may not treat established customs as sacred."
+   }
+},
+ {
+   "name": "leisurely",
+   "description": "Moves at an unhurried pace",
+   "bio": {
+      "group1": "Character prefers an unhurried pace and rarely feels the need to rush.",
+      "group2": "Character prefers an unhurried pace and rarely feels the need to rush."
+   }
+},
+ {
+   "name": "methodical",
+   "description": "Follows a systematic approach",
+   "bio": {
+      "group1": "PRN1 approach tasks step by step and prefer following a clear process.",
+      "group2": "PRN1 approaches tasks step by step and prefers following a clear process."
+   }
+},
+ {
+   "name": "Meticulous",
+   "description": "Very attentive to details",
+   "bio": {
+      "group1": "Character notices fine details and often takes extra care to ensure accuracy.",
+      "group2": "Character notices fine details and often takes extra care to ensure accuracy."
+   }
+},
+ {
+   "name": "moderate",
+   "description": "Avoids extremes",
+   "bio": {
+      "group1": "PRN1 generally avoid extremes and prefer balanced approaches to most situations.",
+      "group2": "PRN1 generally avoids extremes and prefer balanced approaches to most situations."
+   }
+},
+ {
+   "name": "moralistic",
+   "description": "Focused on moral principles",
+   "bio": {
+      "group1": "Character frequently evaluates actions through the lens of personal moral principles.",
+      "group2": "Character frequently evaluates actions through the lens of personal moral principles."
+   }
+},
+ {
+   "name": "mysterious",
+   "description": "Keeps much unknown",
+   "bio": {
+      "group1": "PRN1 reveal only part of PRN2selves, leaving others curious about what lies beneath the surface.",
+      "group2": "PRN1 reveals only part of PRN2self, leaving others curious about what lies beneath the surface."
+   }
+},
+ {
+   "name": "nature-loving",
+   "description": "Enjoys the natural world",
+   "bio": {
+      "group1": "Character feels drawn to the outdoors and enjoys spending time in natural environments.",
+      "group2": "Character feels drawn to the outdoors and enjoys spending time in natural environments."
+   }
+},
+ {
+   "name": "neophobic",
+   "description": "Dislikes new things",
+   "bio": {
+      "group1": "PRN1 are cautious about unfamiliar experiences and usually prefer what is familiar.",
+      "group2": "PRN1 is cautious about unfamiliar experiences and usually prefers what is familiar."
+   }
+},
+ {
+   "name": "neutral",
+   "description": "Does not take sides",
+   "bio": {
+      "group1": "Character often takes a middle-ground approach and avoids strongly favoring one side.",
+      "group2": "Character often takes a middle-ground approach and avoids strongly favoring one side."
+   }
+},
+ {
+   "name": "noncommittal",
+   "description": "Avoids firm decisions",
+   "bio": {
+      "group1": "PRN1 prefer keeping options open and may hesitate to make firm decisions too quickly.",
+      "group2": "PRN1 prefers keeping options open and may hesitate to make firm decisions too quickly."
+   }
+},
+ {
+   "name": "nosy",
+   "description": "Interested in others affairs",
+   "bio": {
+      "group1": "Character shows strong curiosity about the activities and affairs of other people.",
+      "group2": "Character shows strong curiosity about the activities and affairs of other people."
+   }
+},
+ {
+   "name": "old-fashioned",
+   "description": "Prefers older customs",
+   "bio": {
+      "group1": "PRN1 feel comfortable with traditional customs and may prefer older ways of doing things.",
+      "group2": "PRN1 feels comfortable with traditional customs and may prefer older ways of doing things."
+   }
+},
+ {
+   "name": "opinionated",
+   "description": "Holds strong opinions",
+   "bio": {
+      "group1": "Character develops strong views and is usually willing to share PRN2.",
+      "group2": "Character develops strong views and is usually willing to share PRN2."
+   }
+},
+ {
+   "name": "ordinary",
+   "description": "Typical and unremarkable",
+   "bio": {
+      "group1": "PRN1 blend easily into everyday situations and rarely seek to stand out.",
+      "group2": "PRN1 blends easily into everyday situations and rarely seeks to stand out."
+   }
+},
+ {
+   "name": "patriotic",
+   "description": "Supports their country",
+   "bio": {
+      "group1": "Character feels a connection to PRN3 country and values its identity and traditions.",
+      "group2": "Character feels a connection to PRN3 country and values its identity and traditions."
+   }
+},
+ {
+   "name": "people-pleasing",
+   "description": "Tries hard to satisfy others",
+   "bio": {
+      "group1": "PRN1 often prioritize maintaining approval and harmony with those around PRN2.",
+      "group2": "PRN1 often prioritizes maintaining approval and harmony with those around PRN2."
+   }
+},
+ {
+   "name": "perfectionist",
+   "description": "Seeks flawless results",
+   "bio": {
+      "group1": "Character sets very high standards and may struggle to feel satisfied with anything less.",
+      "group2": "Character sets very high standards and may struggle to feel satisfied with anything less."
+   }
+},
+ {
+   "name": "philosophical",
+   "description": "Interested in deep questions",
+   "bio": {
+      "group1": "PRN1 enjoy exploring deeper questions about life, meaning, and human nature.",
+      "group2": "PRN1 enjoys exploring deeper questions about life, meaning, and human nature."
+   }
+},
+ {
+   "name": "pious",
+   "description": "Deeply religious or devoted",
+   "bio": {
+      "group1": "Character takes devotion, faith, or spiritual practices seriously.",
+      "group2": "Character takes devotion, faith, or spiritual practices seriously."
+   }
+},
+ {
+   "name": "Pragmatic",
+   "description": "Focused on practical results",
+   "bio": {
+      "group1": "PRN1 focus on practical outcomes and prefer solutions that work in reality.",
+      "group2": "PRN1 focuses on practical outcomes and prefer solutions that work in reality."
+   }
+},
+ {
+   "name": "predictable",
+   "description": "Acts in expected ways",
+   "bio": {
+      "group1": "Character behaves consistently, making it easy for others to anticipate PRN3 actions.",
+      "group2": "Character behaves consistently, making it easy for others to anticipate PRN3 actions."
+   }
+},
+ {
+   "name": "Private",
+   "description": "Keeps personal matters to self",
+   "bio": {
+      "group1": "PRN1 keep personal matters closely guarded and share them only with trusted individuals.",
+      "group2": "PRN1 keeps personal matters closely guarded and shares them only with trusted individuals."
+   }
+},
+ {
+   "name": "professional",
+   "description": "Acts appropriately at work",
+   "bio": {
+      "group1": "Character strives to behave appropriately and maintain competence in PRN3 responsibilities.",
+      "group2": "Character strives to behave appropriately and maintain competence in PRN3 responsibilities."
+   }
+},
+ {
+   "name": "promiscuous",
+   "description": "Has many romantic relationships",
+   "bio": {
+      "group1": "PRN1 are generally open to forming multiple romantic or intimate connections.",
+      "group2": "PRN1 is generally open to forming multiple romantic or intimate connections."
+   }
+},
+ {
+   "name": "proper",
+   "description": "Observes accepted behavior",
+   "bio": {
+      "group1": "Character values etiquette and prefers to follow accepted standards of conduct.",
+      "group2": "Character values etiquette and prefers to follow accepted standards of conduct."
+   }
+},
+ {
+   "name": "protective",
+   "description": "Looks after others",
+   "bio": {
+      "group1": "PRN1 feel responsible for safeguarding people, places, or things PRN1 care about.",
+      "group2": "PRN1 feels responsible for safeguarding people, places, or things PRN1 cares about."
+   }
+},
+ {
+   "name": "proud",
+   "description": "Feels satisfaction in self",
+   "bio": {
+      "group1": "Character takes satisfaction in PRN3 accomplishments and identity.",
+      "group2": "Character takes satisfaction in PRN3 accomplishments and identity."
+   }
+},
+ {
+   "name": "quiet",
+   "description": "Speaks little",
+   "bio": {
+      "group1": "PRN1 usually speak only when PRN1 have something meaningful to contribute.",
+      "group2": "PRN1 usually speaks only when PRN1 have something meaningful to contribute."
+   }
+},
+ {
+   "name": "Reactive",
+   "description": "Responds quickly to events",
+   "bio": {
+      "group1": "Character responds quickly to events and often adjusts based on what is happening around PRN2.",
+      "group2": "Character responds quickly to events and often adjusts based on what is happening around PRN2."
+   }
+},
+ {
+   "name": "receptive",
+   "description": "Open to ideas and input",
+   "bio": {
+      "group1": "PRN1 are open to suggestions, ideas, and perspectives from other people.",
+      "group2": "PRN1 is open to suggestions, ideas, and perspectives from other people."
+   }
+},
+ {
+   "name": "religious",
+   "description": "Guided by religious beliefs",
+   "bio": {
+      "group1": "Character's beliefs and practices play an important role in how PRN1 view the world.",
+      "group2": "Character's beliefs and practices play an important role in how PRN1 view the world."
+   }
+},
+ {
+   "name": "reserved",
+   "description": "Keeps thoughts and feelings private",
+   "bio": {
+      "group1": "Character keeps PRN3 thoughts and feelings private until PRN1 feel comfortable sharing them.",
+      "group2": "Character keeps PRN3 thoughts and feelings private until PRN1 feels comfortable sharing them."
+   }
+},
+ {
+   "name": "Restless",
+   "description": "Has difficulty staying still",
+   "bio": {
+      "group1": "PRN1 often seek movement, change, or stimulation and may struggle with long periods of inactivity.",
+      "group2": "PRN1 often seeks movement, change, or stimulation and may struggle with long periods of inactivity."
+   }
+},
+ {
+   "name": "Restrained",
+   "description": "Shows self-control and moderation",
+   "bio": {
+      "group1": "Character exercises self-control and rarely allows emotions to completely dictate PRN3 actions.",
+      "group2": "Character exercises self-control and rarely allows emotions to completely dictate PRN3 actions."
+   }
+},
+ {
+   "name": "ritualistic",
+   "description": "Follows routines or rituals",
+   "bio": {
+      "group1": "PRN1 find comfort in routines, traditions, and repeated habits that give structure to daily life.",
+      "group2": "PRN1 finds comfort in routines, traditions, and repeated habits that give structure to daily life."
+   }
+},
+ {
+   "name": "romantic",
+   "description": "Values love and affection",
+   "bio": {
+      "group1": "Character places special value on love, affection, and meaningful emotional connections.",
+      "group2": "Character places special value on love, affection, and meaningful emotional connections."
+   }
+},
+ {
+   "name": "sarcastic",
+   "description": "Uses mocking humor",
+   "bio": {
+      "group1": "PRN1 frequently use irony or sharp humor to express thoughts and entertain PRN2selves.",
+      "group2": "PRN1 frequently uses irony or sharp humor to express thoughts and entertain PRN2self."
+   }
+},
+ {
+   "name": "sassy",
+   "description": "Bold and lively",
+   "bio": {
+      "group1": "Character has a bold, lively way of speaking and rarely hesitates to show personality.",
+      "group2": "Character has a bold, lively way of speaking and rarely hesitates to show personality."
+   }
+},
+ {
+   "name": "secretive",
+   "description": "Keeps information hidden",
+   "bio": {
+      "group1": "PRN1 prefer keeping certain thoughts, plans, or experiences hidden from others.",
+      "group2": "PRN1 prefers keeping certain thoughts, plans, or experiences hidden from others."
+   }
+},
+ {
+   "name": "Selective",
+   "description": "Choosy about preferences",
+   "bio": {
+      "group1": "Character is careful about PRN3 choices and tends to be particular about people, interests, and commitments.",
+      "group2": "Character is careful about PRN3 choices and tends to be particular about people, interests, and commitments."
+   }
+},
+ {
+   "name": "self-conscious",
+   "description": "Very aware of oneself",
+   "bio": {
+      "group1": "PRN1 are highly aware of how PRN1 appear to others and often reflect on PRN3 own behavior.",
+      "group2": "PRN1 is highly aware of how PRN1 appears to others and often reflects on PRN3 own behavior."
+   }
+},
+ {
+   "name": "self-denying",
+   "description": "Gives up personal comforts",
+   "bio": {
+      "group1": "Character is willing to give up comforts or personal desires in pursuit of other priorities.",
+      "group2": "Character is willing to give up comforts or personal desires in pursuit of other priorities."
+   }
+},
+ {
+   "name": "self-reliant",
+   "description": "Depends on oneself",
+   "bio": {
+      "group1": "PRN1 prefer solving problems independently and rarely depend heavily on outside assistance.",
+      "group2": "PRN1 prefers solving problems independently and rarely depends heavily on outside assistance."
+   }
+},
+ {
+   "name": "self-sacrificing",
+   "description": "Puts others before self",
+   "bio": {
+      "group1": "Character is willing to put the needs of others ahead of PRN3 own interests when necessary.",
+      "group2": "Character is all too willing to put the needs of others ahead of PRN3 own interests."
+   }
+},
+ {
+   "name": "sensitive",
+   "description": "Easily affected emotionally",
+   "bio": {
+      "group1": "PRN1 are deeply affected by emotions and often notice subtle emotional cues in others.",
+      "group2": "PRN1 is deeply affected by emotions and often notices subtle emotional cues in others."
+   }
+},
+ {
+   "name": "sentimental",
+   "description": "Attached to memories and feelings",
+   "bio": {
+      "group1": "Character forms strong emotional attachments to memories, keepsakes, and meaningful experiences.",
+      "group2": "Character forms strong emotional attachments to memories, keepsakes, and meaningful experiences."
+   }
+},
+ {
+   "name": "serious",
+   "description": "Not often playful",
+   "bio": {
+      "group1": "PRN1 tend to approach important matters with focus and rarely treat everything as a joke.",
+      "group2": "PRN1 tends to approach important matters with focus and rarely treats anything as a joke."
+   }
+},
+ {
+   "name": "sheltered",
+   "description": "Protected from harsh experiences",
+   "bio": {
+      "group1": "Character has been protected from many of life's harsher experiences and challenges.",
+      "group2": "Character has been protected from many of life's harsher experiences and challenges."
+   }
+},
+ {
+   "name": "shy",
+   "description": "Uncomfortable with attention",
+   "bio": {
+      "group1": "PRN1 may take time to open up and often feel more comfortable outside the spotlight.",
+      "group2": "PRN1 may take time to open up and often feels more comfortable outside the spotlight."
+   }
+},
+ {
+   "name": "simple",
+   "description": "Prefers uncomplicated things",
+   "bio": {
+      "group1": "Character prefers uncomplicated solutions and generally avoids unnecessary complexity.",
+      "group2": "Character prefers uncomplicated solutions and generally avoids unnecessary complexity."
+   }
+},
+ {
+   "name": "skeptical",
+   "description": "Questions claims and assumptions",
+   "bio": {
+      "group1": "PRN1 question assumptions and usually look for evidence before accepting claims.",
+      "group2": "PRN1 questions assumptions and usually looks for evidence before accepting claims."
+   }
+},
+ {
+   "name": "sneaky",
+   "description": "Acts in a hidden way",
+   "bio": {
+      "group1": "Character sometimes prefers indirect or discreet methods rather than acting openly.",
+      "group2": "Character sometimes prefers indirect or discreet methods rather than acting openly."
+   }
+},
+ {
+   "name": "solemn",
+   "description": "Very serious and formal",
+   "bio": {
+      "group1": "PRN1 carry PRN2selves with a sense of seriousness and often treat important matters with gravity.",
+      "group2": "PRN1 carries PRN2self with a sense of seriousness and often treats important matters with gravity."
+   }
+},
+ {
+   "name": "solitary",
+   "description": "Prefers being alone",
+   "bio": {
+      "group1": "Character enjoys spending time alone and may actively seek periods of isolation.",
+      "group2": "Character enjoys spending time alone and may actively seek periods of isolation."
+   }
+},
+ {
+   "name": "spontaneous",
+   "description": "Acts without planning",
+   "bio": {
+      "group1": "PRN1 often make decisions in the moment and enjoy following unexpected opportunities.",
+      "group2": "PRN1 often makes decisions in the moment and enjoys following unexpected opportunities."
+   }
+},
+ {
+   "name": "sporty",
+   "description": "Interested in sports",
+   "bio": {
+      "group1": "Character enjoys athletic activities and often takes an interest in physical recreation.",
+      "group2": "Character enjoys athletic activities and often takes an interest in physical recreation."
+   }
+},
+ {
+   "name": "spunky",
+   "description": "Energetic and spirited",
+   "bio": {
+      "group1": "PRN1 bring enthusiasm, determination, and spirited energy into many situations.",
+      "group2": "PRN1 bring enthusiasm, determination, and spirited energy into many situations."
+   }
+},
+ {
+   "name": "stern",
+   "description": "Strict and serious",
+   "bio": {
+      "group1": "Character maintains firm standards and may come across as strict when enforcing them.",
+      "group2": "Character maintains firm standards and may come across as strict when enforcing them."
+   }
+},
+ {
+   "name": "stoic",
+   "description": "Shows little outward emotion",
+   "bio": {
+      "group1": "PRN1 keep emotions under control and rarely reveal what PRN1 are feeling internally.",
+      "group2": "PRN1 keeps emotions under control and rarely reveals what PRN1 are feeling internally."
+   }
+},
+ {
+   "name": "strategic",
+   "description": "Plans with long-term goals",
+   "bio": {
+      "group1": "Character likes to think ahead and often plans actions with long-term goals in mind.",
+      "group2": "Character likes to think ahead and often plans actions with long-term goals in mind."
+   }
+},
+ {
+   "name": "stubborn",
+   "description": "Resists changing views",
+   "bio": {
+      "group1": "PRN1 hold firmly to PRN3 views and can be difficult to persuade once PRN3 mind is made up.",
+      "group2": "PRN1 holds firmly to PRN3 views and can be difficult to persuade once PRN3 mind is made up."
+   }
+},
+ {
+   "name": "studious",
+   "description": "Spends time learning",
+   "bio": {
+      "group1": "Character dedicates significant time and effort to learning, research, or skill development.",
+      "group2": "Character dedicates significant time and effort to learning, research, or skill development."
+   }
+},
+ {
+   "name": "superstitious",
+   "description": "Influenced by superstitions",
+   "bio": {
+      "group1": "PRN1 may attach meaning to signs, rituals, or beliefs that cannot be easily proven.",
+      "group2": "PRN1 may attach meaning to signs, rituals, or beliefs that cannot be easily proven."
+   }
+},
+ {
+   "name": "survivalist",
+   "description": "Focused on self-sufficiency",
+   "bio": {
+      "group1": "Character values self-sufficiency and often considers how to handle difficult circumstances.",
+      "group2": "Character values self-sufficiency and often considers how to handle difficult circumstances."
+   }
+},
+ {
+   "name": "thrifty",
+   "description": "Careful with resources",
+   "bio": {
+      "group1": "PRN1 use resources carefully and prefer avoiding waste whenever possible.",
+      "group2": "PRN1 uses resources carefully and prefers avoiding waste whenever possible."
+   }
+},
+ {
+   "name": "tolerant",
+   "description": "Accepts differences in others",
+   "bio": {
+      "group1": "Character generally accepts differences in beliefs, lifestyles, and perspectives.",
+      "group2": "Character generally accepts differences in beliefs, lifestyles, and perspectives."
+   }
+},
+ {
+   "name": "traditional",
+   "description": "Follows longstanding customs",
+   "bio": {
+      "group1": "PRN1 respect established customs and often prefer familiar ways of doing things.",
+      "group2": "PRN1 respects established customs and often prefers familiar ways of doing things."
+   }
+},
+ {
+   "name": "Unassuming",
+   "description": "Modest and not attention-seeking",
+   "bio": {
+      "group1": "Character does not seek attention and is comfortable letting actions speak for PRN2selves.",
+      "group2": "Character does not seek attention and is comfortable letting actions speak for PRN2selves."
+   }
+},
+ {
+   "name": "uncomplaining",
+   "description": "Rarely complains",
+   "bio": {
+      "group1": "PRN1 rarely vocalize dissatisfaction and tend to endure inconveniences quietly.",
+      "group2": "PRN1 rarely vocalizes dissatisfaction and tends to endure inconveniences quietly."
+   }
+},
+ {
+   "name": "unimaginative",
+   "description": "Not very creative",
+   "bio": {
+      "group1": "Character prefers familiar ideas and may not naturally think beyond conventional approaches.",
+      "group2": "Character prefers familiar ideas and may not naturally think beyond conventional approaches."
+   }
+},
+ {
+   "name": "uninhibited",
+   "description": "Acts freely without restraint",
+   "bio": {
+      "group1": "PRN1 express PRN2selves freely and are rarely held back by social reservations.",
+      "group2": "PRN1 expresses PRN2selves freely and is rarely held back by social reservations."
+   }
+},
+ {
+   "name": "unpatriotic",
+   "description": "Shows little national pride",
+   "bio": {
+      "group1": "Character does not place strong importance on national identity or patriotic sentiment.",
+      "group2": "Character does not place strong importance on national identity or patriotic sentiment."
+   }
+},
+ {
+   "name": "validation-seeking",
+   "description": "Looks for approval from others",
+   "bio": {
+      "group1": "PRN1 often look for reassurance, approval, or recognition from the people around PRN2.",
+      "group2": "PRN1 often looks for reassurance, approval, or recognition from the people around PRN2."
+   }
+},
+ {
+   "name": "vigilant",
+   "description": "Watchful and alert",
+   "bio": {
+      "group1": "Character stays alert to potential problems and pays close attention to PRN3 surroundings.",
+      "group2": "Character stays alert to potential problems and pays close attention to PRN3 surroundings."
+   }
+},
+ {
+   "name": "wary",
+   "description": "Careful and cautious",
+   "bio": {
+      "group1": "PRN1 approach unfamiliar situations carefully and usually take time to build trust.",
+      "group2": "PRN1 approaches unfamiliar situations carefully and usually takes time to build trust."
+   }
+},
+ {
+   "name": "whimsical",
+   "description": "Playfully unusual",
+   "bio": {
+      "group1": "Character has a playful, unconventional side and enjoys ideas that others might find unusual.",
+      "group2": "Character has a playful, unconventional side and enjoys ideas that others might find unusual."
+   }
+},
+ {
+   "name": "withdrawn",
+   "description": "Keeps away from others",
+   "bio": {
+      "group1": "PRN1 often keep to PRN2selves and may limit social interaction unless necessary.",
+      "group2": "PRN1 often keeps to PRN2selves and may limit social interaction unless necessary."
+   }
+},
+ {
+   "name": "Worldly",
+   "description": "Experienced with life and cultures",
+   "bio": {
+      "group1": "Character draws upon broad life experience and tends to view situations from a wider perspective.",
+      "group2": "Character draws upon broad life experience and tends to view situations from a wider perspective."
+   }
+}
+]
