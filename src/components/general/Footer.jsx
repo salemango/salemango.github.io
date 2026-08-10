@@ -13,13 +13,12 @@ function Footer() {
             <div className="contact-info">
                 <h2>👋 <FadeInText text="Contact Me"/></h2>
                 <div className="footer-grid">
-                    <a href="https://github.com/salemango"><img src={GithubLogo} alt="GitHub logo"></img></a>
-                    <a href="https://www.linkedin.com/in/salem-mangum/"><img src={LinkedInLogo} alt="LinkedIn logo"></img></a>
-                    <a href="https://app.joinhandshake.com/profiles/sarahmangum"><img src={HandshakeLogo} alt="Handshake logo"></img></a>
+                    <a href="https://github.com/salemango" target="_blank" rel="noopener noreferrer"><img src={GithubLogo} alt="GitHub logo"></img></a>
+                    <a href="https://www.linkedin.com/in/salem-mangum/" target="_blank" rel="noopener noreferrer"><img src={LinkedInLogo} alt="LinkedIn logo"></img></a>
+                    <a href="https://app.joinhandshake.com/profiles/sarahmangum" target="_blank" rel="noopener noreferrer"><img src={HandshakeLogo} alt="Handshake logo"></img></a>
                 </div>
-                <button className="email-button">
-                    <a href="mailto:salemmangum@gmail.com">Send me an email!</a>
-                </button>
+                
+                <a className="email-button" href="mailto:salemmangum@gmail.com" target="_blank" rel="noopener noreferrer">Send me an email!</a>
             </div>
 
             <div className='copyright-info'>

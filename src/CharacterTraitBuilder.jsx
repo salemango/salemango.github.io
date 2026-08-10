@@ -10,7 +10,6 @@ import NextProjectButton from './components/project-page/NextProjectButton';
 import Footer from './components/general/Footer'
 import FadeInText from './components/general/FadeInText';
 
-import Gif from './assets/basics/ctb-gif.gif';
 import Home from './assets/basics/ctb-filled-dark.png';
 import HomeLight from './assets/ctb/ctb-filled.png';
 import Empty from './assets/ctb/ctb-home-dark.png';
@@ -26,8 +25,7 @@ function CharacterTraitBuilder() {
             <h1 className={styles.h1}><FadeInText text="Character Trait Builder"/></h1>
 
             <CarouselScroll 
-                images={[
-                    {src: Gif, alt: "A gif showing a user utilizing the various screens of the Character Trait Builder in light mode."},
+                images={[                    
                     {src: Home, alt: "A screenshot showing the Character Trait Builder in dark mode, with a list of character traits on the left and a user dashboard on the right."},
                     {src: HomeLight, alt: "The homepage in light mode."},
                     {src: Empty, alt: "A screenshot showing the homepage in dark mode with an empty dashboard on the right - the first thing a user will see upon opening the app."},

@@ -10,7 +10,7 @@ import NextProjectButton from './components/project-page/NextProjectButton';
 import Footer from './components/general/Footer'
 import FadeInText from './components/general/FadeInText';
 
-import Gif from './assets/basics/wda-gif.gif';
+
 import Home from './assets/basics/wda-home.png';
 import HomeDark from './assets/wda/home-alt.png';
 import Precip from './assets/wda/precip-graph.png';
@@ -25,8 +25,7 @@ function WeatherDiscoveryApp() {
             <h1 className={styles.h1}><FadeInText text="Weather Discovery App"/></h1>
 
             <CarouselScroll 
-                images={[
-                    {src: Gif, alt: "A gif showing a user clicking through the various screens and interfaces of the Weather Discovery App."},
+                images={[                    
                     {src: Home, alt: "The Weather Discovery App's homepage, showing the time, date, temperature, and more information."},
                     {src: HomeDark, alt: "A dark mode version of the homepage, visible at night or when a user toggles it on."},
                     {src: Precip, alt: "A graph of recent precipitation in the location."},

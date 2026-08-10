@@ -1,6 +1,12 @@
 import { motion } from 'motion/react';
 
 function FadeInText({text, delay = 0.05}) {
+    const shouldReduce = typeof window !== 'undefined' && window.matchMedia(('prefers-reduced-motion: reduce').matches);
+
+    if (shouldReduce) {
+        return <span>{text}</span>;
+    }
+
     return(
         <motion.span 
             initial="hidden"
@@ -22,12 +28,8 @@ function FadeInText({text, delay = 0.05}) {
                                 opacity: 1,
                                 y: 0,
                             },
-                        }}
-                        style={{
-                            display: 'inline-block'
-                        }}
-                    >
-                    {char === " " ? "\u00a0" : char} 
+                        }}>
+                    {char} 
                 </motion.span>
             ))}
         </motion.span>

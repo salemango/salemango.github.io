@@ -16,6 +16,8 @@ function CarouselScroll( {images} ) {
                         alt={image.alt}
                         id={`image-${index + 1}`}
                         style={{scrollSnapAlign: snapPointIndexes.has(index) ? "start" : " "}}
+                        loading="lazy"
+                        tabIndex={0}
                     />
                 ))}
             </div>
@@ -23,7 +25,7 @@ function CarouselScroll( {images} ) {
             <div className={styles['carousel-nav-buttons']}>
                 <button 
                     className={`${styles['left-button']} ${styles['carousel-button']}`}
-                    onClick={() => prev()}
+                    onClick={() => prev()} aria-label="Previous slide"
                 >&larr;</button>
 
                 {pages.map((_, index) => (
@@ -35,12 +37,14 @@ function CarouselScroll( {images} ) {
                             `${styles['carousel-button-active']} ${styles['carousel-button']} ${styles['carousel-number-button']}`
                             : `${styles['carousel-button']} ${styles['carousel-number-button']}`
                         }
+                        aria-label={`Go to slide ${index + 1}`}
+                        aria-pressed={activePageIndex === index}
                     >{index + 1}</button> 
                 ))}
 
                 <button 
                     className={`${styles['right-button']} ${styles['carousel-button']}`}
-                    onClick={() => next()}
+                    onClick={() => next()} aria-label="Next slide"
                 >&rarr;</button>
             </div>          
         </section>

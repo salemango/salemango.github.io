@@ -10,7 +10,6 @@ import NextProjectButton from './components/project-page/NextProjectButton';
 import Footer from './components/general/Footer';
 import FadeInText from './components/general/FadeInText';
 
-import Gif from './assets/basics/ac-gif.gif';
 import Spread1 from './assets/basics/ac-spread-1.png';
 import Spread2 from './assets/ac/ac-spread-2.png';
 import Spread3 from './assets/ac/ac-spread-3.png';
@@ -24,7 +23,6 @@ function Artconnect() {
 
             <CarouselScroll 
                 images={[
-                    {src: Gif, alt: "First image"},
                     {src: Spread1, alt: "Second image"},
                     {src: Spread2, alt: "Third image"},
                     {src: Spread3, alt: "Fourth image"},

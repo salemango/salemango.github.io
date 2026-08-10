@@ -3,6 +3,7 @@ import styles from '../../styles/Homepage.module.css';
 import styles2 from '../../styles/Portfolio.module.css';
 
 function Typewriter({ text, backspace = true }) {
+        
     // state variables
     const [ index, setIndex ] = useState(0);
     const [ displayedText, setDisplayedText] = useState("");
@@ -51,7 +52,10 @@ function Typewriter({ text, backspace = true }) {
     }, [displayedText, isDeleting, index, text, backspace]);
 
     return(
-        <span className={styles2['animated-text']}>{displayedText}<span class={styles.cursor}></span></span>
+        <span className={styles2['animated-text']} aria-live="polite" aria-atomic="true">
+            {displayedText}
+            <span className={styles.cursor} aria-hidden="true"></span>
+        </span>
     )
 }
 
