@@ -195,8 +195,8 @@
    "trait": "detached",
    "description": "Emotionally distant",
    "bio": {
-      "group1": "Character sometimes keeps emotional distance between PRN2selves and the events around PRN2.",
-      "group2": "Character sometimes keeps emotional distance between PRN2selves and the events around PRN2."
+      "group1": "Character sometimes keeps emotional distance between PRN2selves and the events around them.",
+      "group2": "Character sometimes keeps emotional distance between PRN2self and the events around them."
    }
 },
  {
@@ -211,8 +211,8 @@
    "trait": "dogmatic",
    "description": "Strongly attached to beliefs",
    "bio": {
-      "group1": "Character holds firmly to PRN3 beliefs and is not easily persuaded to change PRN2.",
-      "group2": "Character holds firmly to PRN3 beliefs and is not easily persuaded to change PRN2."
+      "group1": "Character holds firmly to PRN3 beliefs and is not easily persuaded to change them.",
+      "group2": "Character holds firmly to PRN3 beliefs and is not easily persuaded to change them."
    }
 },
  {
@@ -667,8 +667,8 @@
    "trait": "opinionated",
    "description": "Holds strong opinions",
    "bio": {
-      "group1": "Character develops strong views and is usually willing to share PRN2.",
-      "group2": "Character develops strong views and is usually willing to share PRN2."
+      "group1": "Character develops strong views and is usually willing to share them.",
+      "group2": "Character develops strong views and is usually willing to share them."
    }
 },
  {
@@ -691,8 +691,8 @@
    "trait": "people-pleasing",
    "description": "Tries hard to satisfy others",
    "bio": {
-      "group1": "PRN1 often prioritize maintaining approval and harmony with those around PRN2.",
-      "group2": "PRN1 often prioritizes maintaining approval and harmony with those around PRN2."
+      "group1": "PRN1 often prioritize maintaining approval and harmony with those around them.",
+      "group2": "PRN1 often prioritizes maintaining approval and harmony with those around them."
    }
 },
  {
@@ -1107,8 +1107,8 @@
    "trait": "Unassuming",
    "description": "Modest and not attention-seeking",
    "bio": {
-      "group1": "Character does not seek attention and is comfortable letting actions speak for PRN2selves.",
-      "group2": "Character does not seek attention and is comfortable letting actions speak for PRN2selves."
+      "group1": "Character does not seek attention and is comfortable letting actions speak for themselves.",
+      "group2": "Character does not seek attention and is comfortable letting actions speak for themselves."
    }
 },
  {
@@ -1132,7 +1132,7 @@
    "description": "Acts freely without restraint",
    "bio": {
       "group1": "PRN1 express PRN2selves freely and are rarely held back by social reservations.",
-      "group2": "PRN1 expresses PRN2selves freely and is rarely held back by social reservations."
+      "group2": "PRN1 expresses PRN2self freely and is rarely held back by social reservations."
    }
 },
  {
@@ -1180,7 +1180,7 @@
    "description": "Keeps away from others",
    "bio": {
       "group1": "PRN1 often keep to PRN2selves and may limit social interaction unless necessary.",
-      "group2": "PRN1 often keeps to PRN2selves and may limit social interaction unless necessary."
+      "group2": "PRN1 often keeps to PRN2self and may limit social interaction unless necessary."
    }
 },
  {

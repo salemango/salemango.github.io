@@ -644,7 +644,7 @@
    "description": "Says one thing, does another",
    "bio": {
       "group1": "Character expects standards from others that PRN1 do not consistently follow PRN2selves.",
-      "group2": "Character expects standards from others that PRN1 do not consistently follow PRN2selves."
+      "group2": "Character expects standards from others that PRN1 does not consistently follow PRN2self."
    }
 },
  {
@@ -1003,8 +1003,8 @@
    "trait": "repressed",
    "description": "Hides emotions excessively",
    "bio": {
-      "group1": "PRN1 suppress emotions and personal desires rather than expressing PRN2 openly.",
-      "group2": "PRN1 suppresses emotions and personal desires rather than expressing PRN2 openly."
+      "group1": "PRN1 suppress emotions and personal desires rather than expressing them openly.",
+      "group2": "PRN1 suppresses emotions and personal desires rather than expressing them openly."
    }
 },
  {
@@ -1060,7 +1060,7 @@
    "description": "Believes always morally correct",
    "bio": {
       "group1": "Character strongly believes PRN3 views are morally correct and rarely questions PRN2selves.",
-      "group2": "Character strongly believes PRN3 views are morally correct and rarely questions PRN2selves."
+      "group2": "Character strongly believes PRN3 views are morally correct and rarely questions PRN2self."
    }
 },
  {

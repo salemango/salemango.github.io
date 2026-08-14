@@ -860,7 +860,7 @@
    "description": "Expresses opinions openly",
    "bio": {
       "group1": "Character shares PRN3 thoughts openly rather than keeping important opinions to PRN2selves.",
-      "group2": "Character shares PRN3 thoughts openly rather than keeping important opinions to PRN2selves."
+      "group2": "Character shares PRN3 thoughts openly rather than keeping important opinions to PRN2self."
    }
 },
  {
@@ -948,7 +948,7 @@
    "description": "Ready for situations",
    "bio": {
       "group1": "PRN1 like to think ahead and rarely find PRN2selves caught completely off guard.",
-      "group2": "PRN1 likes to think ahead and rarely finds PRN2selves caught completely off guard."
+      "group2": "PRN1 likes to think ahead and rarely finds PRN2self caught completely off guard."
    }
 },
  {
@@ -1019,8 +1019,8 @@
    "trait": "reflective",
    "description": "Thinks carefully about experiences",
    "bio": {
-      "group1": "PRN1 regularly examine PRN3 experiences and look for lessons PRN1 can learn from PRN2.",
-      "group2": "PRN1 regularly examines PRN3 experiences and looks for lessons PRN1 can learn from PRN2."
+      "group1": "PRN1 regularly examine PRN3 experiences and look for lessons PRN1 can learn from them.",
+      "group2": "PRN1 regularly examines PRN3 experiences and looks for lessons PRN1 can learn from them."
    }
 },
  {
@@ -1140,7 +1140,7 @@
    "description": "Smooth and confident",
    "bio": {
       "group1": "Character carries PRN2selves with confidence, charm, and social grace.",
-      "group2": "Character carries PRN2selves with confidence, charm, and social grace."
+      "group2": "Character carries PRN2self with confidence, charm, and social grace."
    }
 },
  {
