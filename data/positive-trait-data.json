@@ -1,528 +1,1226 @@
-[{
-  "word": "Accessible",
-  "id": 1
-},
-{
-  "word": "Adaptable",
-  "id": 2
-},
-{
-  "word": "Adventurous",
-  "id": 3
-},
-{
-  "word": "Agreeable",
-  "id": 4
-},
-{
-  "word": "Alert",
-  "id": 5
-},
-{
-  "word": "Allocentric",
-  "id": 6
-},
-{
-  "word": "alluring",
-  "id": 7
-},
-{
-  "word": "altruistic",
-  "id": 8
-},
-{
-  "word": "Articulate",
-  "id": 9
-},
-{
-  "word": "assertive",
-  "id": 10
-},
-{
-  "word": "astute",
-  "id": 11
-},
-{
-  "word": "authentic",
-  "id": 12
-},
-{
-  "word": "Benevolent",
-  "id": 13
-},
-{
-  "word": "Brilliant",
-  "id": 14
-},
-{
-  "word": "Calm",
-  "id": 15
-},
-{
-  "word": "Capable",
-  "id": 16
-},
-{
-  "word": "Captivating",
-  "id": 17
-},
-{
-  "word": "Caring",
-  "id": 18
-},
-{
-  "word": "Charismatic",
-  "id": 19
-},
-{
-  "word": "Cheerful",
-  "id": 20
-},
-{
-  "word": "Clever",
-  "id": 21
-},
-{
-  "word": "Colorful",
-  "id": 22
-},
-{
-  "word": "Compassionate",
-  "id": 23
-},
-{
-  "word": "Confident",
-  "id": 24
-},
-{
-  "word": "Conscientious",
-  "id": 25
-},
-{
-  "word": "Considerate",
-  "id": 26
-},
-{
-  "word": "Cooperative",
-  "id": 27
-},
-{
-  "word": "Courageous",
-  "id": 28
-},
-{
-  "word": "Creative",
-  "id": 29
-},
-{
-  "word": "Cultured",
-  "id": 30
-},
-{
-  "word": "Curious",
-  "id": 31
-},
-{
-  "word": "Debonair",
-  "id": 32
-},
-{
-  "word": "Decisive",
-  "id": 33
-},
-{
-  "word": "Dedicated",
-  "id": 34
-},
-{
-  "word": "Deep",
-  "id": 35
-},
-{
-  "word": "Dignified",
-  "id": 36
-},
-{
-  "word": "diplomatic",
-  "id": 37
-},
-{
-  "word": "Disciplined",
-  "id": 38
-},
-{
-  "word": "Discreet",
-  "id": 39
-},
-{
-  "word": "Dynamic",
-  "id": 40
-},
-{
-  "word": "Earnest",
-  "id": 41
-},
-{
-  "word": "Educated",
-  "id": 42
-},
-{
-  "word": "efficient",
-  "id": 43
-},
-{
-  "word": "elegant",
-  "id": 44
-},
-{
-  "word": "eloquent",
-  "id": 45
-},
-{
-  "word": "empathetic",
-  "id": 46
-},
-{
-  "word": "energetic",
-  "id": 47
-},
-{
-  "word": "enthusiatic",
-  "id": 48
-},
-{
-  "word": "exciting",
-  "id": 49
-},
-{
-  "word": "fair",
-  "id": 50
-},
-{
-  "word": "farsighted",
-  "id": 51
-},
-{
-  "word": "firm",
-  "id": 52
-},
-{
-  "word": "focused",
-  "id": 53
-},
-{
-  "word": "forthright",
-  "id": 54
-},
-{
-  "word": "fortunate",
-  "id": 55
-},
-{
-  "word": "freethinking",
-  "id": 56
-},
-{
-  "word": "friendly",
-  "id": 57
-},
-{
-  "word": "gallant",
-  "id": 58
-},
-{
-  "word": "generous",
-  "id": 59
-},
-{
-  "word": "gentle",
-  "id": 60
-},
-{
-  "word": "good-natured",
-  "id": 61
-},
-{
-  "word": "hardworking",
-  "id": 62
-},
-{
-  "word": "heroic",
-  "id": 63
-},
-{
-  "word": "honest",
-  "id": 64
-},
-{
-  "word": "honorable",
-  "id": 65
-},
-{
-  "word": "hospitable",
-  "id": 66
-},
-{
-  "word": "humble",
-  "id": 67
-},
-{
-  "word": "humorous",
-  "id": 68
-},
-{
-  "word": "incisive",
-  "id": 69
-},
-{
-  "word": "incorruptible",
-  "id": 70
-},
-{
-  "word": "innovative",
-  "id": 71
-},
-{
-  "word": "insightful",
-  "id": 72
-},
-{
-  "word": "inspiring",
-  "id": 73
-},
-{
-  "word": "intelligent",
-  "id": 74
-},
-{
-  "word": "intuitive",
-  "id": 75
-},
-{
-  "word": "kind",
-  "id": 76
-},
-{
-  "word": "knowledgeable",
-  "id": 77
-},
-{
-  "word": "Levelheaded",
-  "id": 78
-},
-{
-  "word": "liberal",
-  "id": 79
-},
-{
-  "word": "logical",
-  "id": 80
-},
-{
-  "word": "Loyal",
-  "id": 81
-},
-{
-  "word": "magnanimous",
-  "id": 82
-},
-{
-  "word": "mature",
-  "id": 83
-},
-{
-  "word": "mellow",
-  "id": 84
-},
-{
-  "word": "merciful",
-  "id": 85
-},
-{
-  "word": "meticulous",
-  "id": 86
-},
-{
-  "word": "modest",
-  "id": 87
-},
-{
-  "word": "natural leader",
-  "id": 88
-},
-{
-  "word": "neat",
-  "id": 89
-},
-{
-  "word": "objective",
-  "id": 90
-},
-{
-  "word": "observant",
-  "id": 91
-},
-{
-  "word": "open",
-  "id": 92
-},
-{
-  "word": "open minded",
-  "id": 93
-},
-{
-  "word": "optimistic",
-  "id": 94
-},
-{
-  "word": "organized",
-  "id": 95
-},
-{
-  "word": "outspoken",
-  "id": 96
-},
-{
-  "word": "passionate",
-  "id": 97
-},
-{
-  "word": "patient",
-  "id": 98
-},
-{
-  "word": "peaceful",
-  "id": 99
-},
-{
-  "word": "perceptive",
-  "id": 100
-},
-{
-  "word": "persuasive",
-  "id": 101
-},
-{
-  "word": "polite",
-  "id": 102
-},
-{
-  "word": "popular",
-  "id": 103
-},
-{
-  "word": "practical",
-  "id": 104
-},
-{
-  "word": "precise",
-  "id": 105
-},
-{
-  "word": "prepared",
-  "id": 106
-},
-{
-  "word": "principled",
-  "id": 107
-},
-{
-  "word": "proactive",
-  "id": 108
-},
-{
-  "word": "profound",
-  "id": 109
-},
-{
-  "word": "prudent",
-  "id": 110
-},
-{
-  "word": "punctual",
-  "id": 111
-},
-{
-  "word": "purposeful",
-  "id": 112
-},
-{
-  "word": "rational",
-  "id": 113
-},
-{
-  "word": "realistic",
-  "id": 114
-},
-{
-  "word": "Reflective",
-  "id": 115
-},
-{
-  "word": "reliable",
-  "id": 116
-},
-{
-  "word": "resilient",
-  "id": 117
-},
-{
-  "word": "resolute",
-  "id": 118
-},
-{
-  "word": "resourceful",
-  "id": 119
-},
-{
-  "word": "respectful",
-  "id": 120
-},
-{
-  "word": "responsible",
-  "id": 121
-},
-{
-  "word": "scrupulous",
-  "id": 122
-},
-{
-  "word": "shrewd",
-  "id": 123
-},
-{
-  "word": "solid",
-  "id": 124
-},
-{
-  "word": "sophisticated",
-  "id": 125
-},
-{
-  "word": "stable",
-  "id": 126
-},
-{
-  "word": "steadfast",
-  "id": 127
-},
-{
-  "word": "sweet",
-  "id": 128
-},
-{
-  "word": "sympathetic",
-  "id": 129
-},
-{
-  "word": "tenacious",
-  "id": 130
-},
-{
-  "word": "visionary",
-  "id": 131
-},
-{
-  "word": "wise",
-  "id": 132
-}]
+[
+ {
+   "trait": "Accountable",
+   "description": "Takes responsibility for actions",
+   "bio": {
+      "group1": "Character owns PRN3 decisions and works to correct mistakes rather than shifting blame to someone else.",
+      "group2": "Character owns PRN3 decisions and works to correct mistakes rather than shifting blame to someone else."
+   }
+},
+ {
+   "trait": "Adaptable",
+   "description": "Adjusts well to change",
+   "bio": {
+      "group1": "PRN1 adjust smoothly when circumstances change and rarely stay stuck when plans fall apart.",
+      "group2": "PRN1 adjusts smoothly when circumstances change and rarely stays stuck when plans fall apart."
+   }
+},
+ {
+   "trait": "Adventurous",
+   "description": "Enjoys new experiences",
+   "bio": {
+      "group1": "Character actively seeks new experiences and is excited by opportunities to explore the unfamiliar.",
+      "group2": "Character actively seeks new experiences and is excited by opportunities to explore the unfamiliar."
+   }
+},
+ {
+   "trait": "Affectionate",
+   "description": "Shows warmth and care",
+   "bio": {
+      "group1": "PRN1 openly show warmth through PRN3 words and actions, helping others feel valued.",
+      "group2": "PRN1 openly shows warmth through PRN3 words and actions, helping others feel valued."
+   }
+},
+ {
+   "trait": "Agreeable",
+   "description": "Easy to get along with",
+   "bio": {
+      "group1": "Character is easy to get along with and usually prefers cooperation over unnecessary conflict.",
+      "group2": "Character is easy to get along with and usually prefers cooperation over unnecessary conflict."
+   }
+},
+ {
+   "trait": "Alert",
+   "description": "Quick to notice things",
+   "bio": {
+      "group1": "PRN1 notice important details quickly and stay aware of what is happening around PRN2.",
+      "group2": "PRN1 notices important details quickly and stays aware of what is happening around PRN2."
+   }
+},
+ {
+   "trait": "Allocentric",
+   "description": "Focused on others needs",
+   "bio": {
+      "group1": "Character naturally considers the needs of others and tries to balance them with PRN3 own.",
+      "group2": "Character naturally considers the needs of others and tries to balance them with PRN3 own."
+   }
+},
+ {
+   "trait": "Alluring",
+   "description": "Naturally attractive and appealing",
+   "bio": {
+      "group1": "PRN1 have a naturally appealing presence that draws people in without trying too hard.",
+      "group2": "PRN1 has a naturally appealing presence that draws people in without trying too hard."
+   }
+},
+ {
+   "trait": "Altruistic",
+   "description": "Helps others selflessly",
+   "bio": {
+      "group1": "Character willingly helps people in need without expecting thanks or recognition.",
+      "group2": "Character willingly helps people in need without expecting thanks or recognition."
+   }
+},
+ {
+   "trait": "Approachable",
+   "description": "Easy to talk to",
+   "bio": {
+      "group1": "PRN1 create a welcoming atmosphere that makes it easy for others to start conversations.",
+      "group2": "PRN1 creates a welcoming atmosphere that makes it easy for others to start conversations."
+   }
+},
+ {
+   "trait": "Articulate",
+   "description": "Expresses ideas clearly",
+   "bio": {
+      "group1": "Character expresses ideas clearly and rarely struggles to explain what PRN1 mean.",
+      "group2": "Character expresses ideas clearly and rarely struggles to explain what PRN1 means."
+   }
+},
+ {
+   "trait": "Assertive",
+   "description": "Speaks up confidently",
+   "bio": {
+      "group1": "PRN1 speak up for PRN2selves confidently while remaining respectful of others.",
+      "group2": "PRN1 speaks up for PRN2self confidently while remaining respectful of others."
+   }
+},
+ {
+   "trait": "Astute",
+   "description": "Quick to understand situations",
+   "bio": {
+      "group1": "Character quickly understands situations and often picks up on things others overlook.",
+      "group2": "Character quickly understands situations and often picks up on things others overlook."
+   }
+},
+ {
+   "trait": "Attentive",
+   "description": "Pays close attention",
+   "bio": {
+      "group1": "PRN1 listen carefully and make people feel heard by paying close attention.",
+      "group2": "PRN1 listens carefully and makes people feel heard by paying close attention."
+   }
+},
+ {
+   "trait": "Authentic",
+   "description": "Genuine and true to self",
+   "bio": {
+      "group1": "Character stays true to PRN3 values instead of pretending to be someone PRN1 are not.",
+      "group2": "Character stays true to PRN3 values instead of pretending to be someone PRN1 is not."
+   }
+},
+ {
+   "trait": "Balanced",
+   "description": "Keeps a healthy perspective",
+   "bio": {
+      "group1": "PRN1 maintain a healthy perspective and avoid overreacting to temporary setbacks.",
+      "group2": "PRN1 maintains a healthy perspective and avoids overreacting to temporary setbacks."
+   }
+},
+ {
+   "trait": "Benevolent",
+   "description": "Kind and well-meaning",
+   "bio": {
+      "group1": "Character genuinely wants good things for others and acts with kindness whenever possible.",
+      "group2": "Character genuinely wants good things for others and acts with kindness whenever possible."
+   }
+},
+ {
+   "trait": "Brilliant",
+   "description": "Exceptionally smart or talented",
+   "bio": {
+      "group1": "PRN1 grasp complex ideas quickly and often impress others with PRN3 abilities.",
+      "group2": "PRN1 grasps complex ideas quickly and often impresses others with PRN3 abilities."
+   }
+},
+ {
+   "trait": "Calm",
+   "description": "Stays relaxed under pressure",
+   "bio": {
+      "group1": "Character remains steady under pressure and helps keep stressful situations under control.",
+      "group2": "Character remains steady under pressure and helps keep stressful situations under control."
+   }
+},
+ {
+   "trait": "candid",
+   "description": "Speaks honestly and openly",
+   "bio": {
+      "group1": "PRN1 communicate honestly and prefer clear conversations over hidden intentions.",
+      "group2": "PRN1 communicates honestly and prefers clear conversations over hidden intentions."
+   }
+},
+ {
+   "trait": "Capable",
+   "description": "Able to handle tasks well",
+   "bio": {
+      "group1": "Character can be trusted to handle responsibilities and follow through effectively.",
+      "group2": "Character can be trusted to handle responsibilities and follow through effectively."
+   }
+},
+ {
+   "trait": "Captivating",
+   "description": "Holds others attention easily",
+   "bio": {
+      "group1": "PRN1 naturally hold people's attention through PRN3 presence, ideas, or personality.",
+      "group2": "PRN1 naturally holds people's attention through PRN3 presence, ideas, or personality."
+   }
+},
+ {
+   "trait": "Caring",
+   "description": "Shows concern for others",
+   "bio": {
+      "group1": "Character takes an active interest in the well-being of the people around PRN2.",
+      "group2": "Character takes an active interest in the well-being of the people around PRN2."
+   }
+},
+ {
+   "trait": "Charismatic",
+   "description": "Naturally attracts and inspires others",
+   "bio": {
+      "group1": "PRN1 inspire enthusiasm in others and often become a positive influence within a group.",
+      "group2": "PRN1 inspires enthusiasm in others and often becomes a positive influence within a group."
+   }
+},
+ {
+   "trait": "Cheerful",
+   "description": "Usually happy and positive",
+   "bio": {
+      "group1": "Character brings an upbeat attitude that can brighten the mood of those nearby.",
+      "group2": "Character brings an upbeat attitude that can brighten the mood of those nearby."
+   }
+},
+ {
+   "trait": "Clever",
+   "description": "Quick-thinking and smart",
+   "bio": {
+      "group1": "PRN1 think quickly on PRN3 feet and often find creative answers to difficult problems.",
+      "group2": "PRN1 thinks quickly on PRN3 feet and often finds creative answers to difficult problems."
+   }
+},
+ {
+   "trait": "Colorful",
+   "description": "Full of personality and energy",
+   "bio": {
+      "group1": "Character has a vibrant personality that makes PRN2 memorable and engaging.",
+      "group2": "Character has a vibrant personality that makes PRN2 memorable and engaging."
+   }
+},
+ {
+   "trait": "Compassionate",
+   "description": "Shows deep kindness to others",
+   "bio": {
+      "group1": "PRN1 respond to the struggles of others with genuine understanding and kindness.",
+      "group2": "PRN1 responds to the struggles of others with genuine understanding and kindness."
+   }
+},
+ {
+   "trait": "Composed",
+   "description": "Stays calm and controlled",
+   "bio": {
+      "group1": "Character stays in control of PRN3 emotions even during challenging moments.",
+      "group2": "Character stays in control of PRN3 emotions even during challenging moments."
+   }
+},
+ {
+   "trait": "Confident",
+   "description": "Believes in own abilities",
+   "bio": {
+      "group1": "PRN1 trust PRN3 abilities and approach new challenges with self-assurance.",
+      "group2": "PRN1 trusts PRN3 abilities and approaches new challenges with self-assurance."
+   }
+},
+ {
+   "trait": "Conscientious",
+   "description": "Careful and responsible",
+   "bio": {
+      "group1": "Character takes PRN3 responsibilities seriously and pays attention to doing things properly.",
+      "group2": "Character takes PRN3 responsibilities seriously and pays attention to doing things properly."
+   }
+},
+ {
+   "trait": "Considerate",
+   "description": "Thinks about others feelings",
+   "bio": {
+      "group1": "PRN1 think about how PRN3 actions affect others before making decisions.",
+      "group2": "PRN1 thinks about how PRN3 actions affect others before making decisions."
+   }
+},
+ {
+   "trait": "Cooperative",
+   "description": "Works well with others",
+   "bio": {
+      "group1": "Character works well with others and value teamwork when pursuing shared goals.",
+      "group2": "Character works well with others and values teamwork when pursuing shared goals."
+   }
+},
+ {
+   "trait": "Courageous",
+   "description": "Faces fear bravely",
+   "bio": {
+      "group1": "PRN1 face fear and uncertainty directly when something important is at stake.",
+      "group2": "PRN1 faces fear and uncertainty directly when something important is at stake."
+   }
+},
+ {
+   "trait": "Courteous",
+   "description": "Polite and respectful",
+   "bio": {
+      "group1": "Character treats others with respect and consistently demonstrate good manners.",
+      "group2": "Character treats others with respect and consistently demonstrates good manners."
+   }
+},
+ {
+   "trait": "Creative",
+   "description": "Produces original ideas",
+   "bio": {
+      "group1": "PRN1 enjoy finding original solutions and bringing fresh ideas into the conversation.",
+      "group2": "PRN1 enjoys finding original solutions and bringing fresh ideas into the conversation."
+   }
+},
+ {
+   "trait": "Cultured",
+   "description": "Knowledgeable about arts and society",
+   "bio": {
+      "group1": "Character appreciates knowledge, art, and different perspectives from the wider world.",
+      "group2": "Character appreciates knowledge, art, and different perspectives from the wider world."
+   }
+},
+ {
+   "trait": "Curious",
+   "description": "Eager to learn",
+   "bio": {
+      "group1": "PRN1 are eager to learn and often ask thoughtful questions to better understand things.",
+      "group2": "PRN1 is eager to learn and often asks thoughtful questions to better understand things."
+   }
+},
+ {
+   "trait": "Decisive",
+   "description": "Makes decisions confidently",
+   "bio": {
+      "group1": "Character makes choices confidently instead of remaining stuck between options.",
+      "group2": "Character makes choices confidently instead of remaining stuck between options."
+   }
+},
+ {
+   "trait": "Dependable",
+   "description": "Can be relied upon",
+   "bio": {
+      "group1": "Character follows through on promises and can be counted on when needed.",
+      "group2": "Character follows through on promises and can be counted on when needed."
+   }
+},
+ {
+   "trait": "Determined",
+   "description": "Committed to goals",
+   "bio": {
+      "group1": "PRN1 remain committed to PRN3 goals even when progress requires patience and effort.",
+      "group2": "PRN1 remains committed to PRN3 goals even when progress requires patience and effort."
+   }
+},
+ {
+   "trait": "Devoted",
+   "description": "Deeply loyal and committed",
+   "bio": {
+      "group1": "Character forms strong commitments and remains loyal to the people and causes PRN1 value.",
+      "group2": "Character forms strong commitments and remains loyal to the people and causes PRN1 value."
+   }
+},
+ {
+   "trait": "Dignified",
+   "description": "Acts with honor and respect",
+   "bio": {
+      "group1": "PRN1 carry PRN2selves with quiet confidence and treat others with respect.",
+      "group2": "PRN1 carries PRN2self with quiet confidence and treats others with respect."
+   }
+},
+ {
+   "trait": "Diplomatic",
+   "description": "Handles situations tactfully",
+   "bio": {
+      "group1": "Character handles disagreements carefully and look for solutions that preserve relationships.",
+      "group2": "Character handles disagreements carefully and looks for solutions that preserve relationships."
+   }
+},
+ {
+   "trait": "Disciplined",
+   "description": "Practices self-control consistently",
+   "bio": {
+      "group1": "PRN1 maintain self-control and stick to important tasks even when distractions appear.",
+      "group2": "PRN1 maintains self-control and sticks to important tasks even when distractions appear."
+   }
+},
+ {
+   "trait": "Discreet",
+   "description": "Keeps information private",
+   "bio": {
+      "group1": "Character can be trusted with sensitive information and respects personal boundaries.",
+      "group2": "Character can be trusted with sensitive information and respects personal boundaries."
+   }
+},
+ {
+   "trait": "Dynamic",
+   "description": "Energetic and effective",
+   "bio": {
+      "group1": "PRN1 bring energy and initiative into situations, motivating others to take action.",
+      "group2": "PRN1 brings energy and initiative into situations, motivating others to take action."
+   }
+},
+ {
+   "trait": "Earnest",
+   "description": "Serious and sincere",
+   "bio": {
+      "group1": "Character approaches important matters with sincerity and genuine commitment.",
+      "group2": "Character approaches important matters with sincerity and genuine commitment."
+   }
+},
+ {
+   "trait": "Educated",
+   "description": "Well-informed through learning",
+   "bio": {
+      "group1": "PRN1 draw from a broad foundation of knowledge when making decisions or sharing insights.",
+      "group2": "PRN1 draws from a broad foundation of knowledge when making decisions or sharing insights."
+   }
+},
+ {
+   "trait": "Efficient",
+   "description": "Works with little waste",
+   "bio": {
+      "group1": "Character makes good use of PRN3 time and resources, rarely wasting effort on unnecessary tasks.",
+      "group2": "Character makes good use of PRN3 time and resources, rarely wasting effort on unnecessary tasks."
+   }
+},
+ {
+   "trait": "Elegant",
+   "description": "Graceful and refined",
+   "bio": {
+      "group1": "PRN1 carry PRN2selves with grace and tend to approach situations with refined confidence.",
+      "group2": "PRN1 carries PRN2self with grace and tends to approach situations with refined confidence."
+   }
+},
+ {
+   "trait": "Eloquent",
+   "description": "Speaks clearly and persuasively",
+   "bio": {
+      "group1": "Character communicates with clarity and skill, making PRN3 ideas easy to understand.",
+      "group2": "Character communicates with clarity and skill, making PRN3 ideas easy to understand."
+   }
+},
+ {
+   "trait": "Empathetic",
+   "description": "Understands others feelings",
+   "bio": {
+      "group1": "PRN1 readily recognize the feelings of others and respond with understanding and care.",
+      "group2": "PRN1 readily recognizes the feelings of others and responds with understanding and care."
+   }
+},
+ {
+   "trait": "Encouraging",
+   "description": "Gives support and confidence",
+   "bio": {
+      "group1": "Character helps people believe in themselves and often offers support when confidence is low.",
+      "group2": "Character helps people believe in themselves and often offers support when confidence is low."
+   }
+},
+ {
+   "trait": "energetic",
+   "description": "Full of energy",
+   "bio": {
+      "group1": "PRN1 approach life with enthusiasm and rarely seem to run out of motivation.",
+      "group2": "PRN1 approaches life with enthusiasm and rarely seems to run out of motivation."
+   }
+},
+ {
+   "trait": "enthusiastic",
+   "description": "Shows strong excitement",
+   "bio": {
+      "group1": "Character throws PRN2selves into PRN3 interests wholeheartedly and enjoys sharing that excitement.",
+      "group2": "Character throws PRN2self into PRN3 interests wholeheartedly and enjoys sharing that excitement."
+   }
+},
+ {
+   "trait": "Ethical",
+   "description": "Acts according to principles",
+   "bio": {
+      "group1": "PRN1 strive to do what PRN1 believe is right, even when taking shortcuts would be easier.",
+      "group2": "PRN1 strives to do what PRN1 believes is right, even when taking shortcuts would be easier."
+   }
+},
+ {
+   "trait": "fair",
+   "description": "Treats people equally",
+   "bio": {
+      "group1": "Character treats people consistently and makes an effort to judge situations impartially.",
+      "group2": "Character treats people consistently and makes an effort to judge situations impartially."
+   }
+},
+ {
+   "trait": "farsighted",
+   "description": "Plans wisely for future",
+   "bio": {
+      "group1": "PRN1 think beyond immediate results and consider how today's choices may affect the future.",
+      "group2": "PRN1 thinks beyond immediate results and considers how today's choices may affect the future."
+   }
+},
+ {
+   "trait": "firm",
+   "description": "Strong and steady",
+   "bio": {
+      "group1": "Character stands by important decisions and does not waver easily under pressure.",
+      "group2": "Character stands by important decisions and does not waver easily under pressure."
+   }
+},
+ {
+   "trait": "Flexible",
+   "description": "Adapts to different situations",
+   "bio": {
+      "group1": "PRN1 are comfortable adjusting PRN3 approach when circumstances require something different.",
+      "group2": "PRN1 is comfortable adjusting PRN3 approach when circumstances require something different."
+   }
+},
+ {
+   "trait": "focused",
+   "description": "Concentrates on priorities",
+   "bio": {
+      "group1": "Character keeps PRN3 attention on what matters most and avoids being easily distracted.",
+      "group2": "Character keeps PRN3 attention on what matters most and avoids being easily distracted."
+   }
+},
+ {
+   "trait": "Forgiving",
+   "description": "Lets go of resentment",
+   "bio": {
+      "group1": "PRN1 are willing to move past old grievances instead of holding onto resentment.",
+      "group2": "PRN1 is willing to move past old grievances instead of holding onto resentment."
+   }
+},
+ {
+   "trait": "forthright",
+   "description": "Direct and honest",
+   "bio": {
+      "group1": "Character speaks honestly and directly, even when difficult conversations are necessary.",
+      "group2": "Character speaks honestly and directly, even when difficult conversations are necessary."
+   }
+},
+ {
+   "trait": "fortunate",
+   "description": "Often experiences good outcomes",
+   "bio": {
+      "group1": "PRN1 often seem to find PRN2selves in favorable situations and make good use of opportunities.",
+      "group2": "PRN1 often seems to find PRN2self in favorable situations and makes good use of opportunities."
+   }
+},
+ {
+   "trait": "freethinking",
+   "description": "Forms independent opinions",
+   "bio": {
+      "group1": "Character forms PRN3 own opinions rather than blindly following the crowd.",
+      "group2": "Character forms PRN3 own opinions rather than blindly following the crowd."
+   }
+},
+ {
+   "trait": "friendly",
+   "description": "Kind and welcoming",
+   "bio": {
+      "group1": "PRN1 make others feel welcome and usually approach new people with kindness.",
+      "group2": "PRN1 makes others feel welcome and usually approaches new people with kindness."
+   }
+},
+ {
+   "trait": "gallant",
+   "description": "Brave and courteous",
+   "bio": {
+      "group1": "Character combines courage with courtesy, especially when helping or protecting others.",
+      "group2": "Character combines courage with courtesy, especially when helping or protecting others."
+   }
+},
+ {
+   "trait": "generous",
+   "description": "Willing to give",
+   "bio": {
+      "group1": "PRN1 freely share PRN3 time, resources, or effort when PRN1 see a chance to help.",
+      "group2": "PRN1 freely shares PRN3 time, resources, or effort when PRN1 sees a chance to help."
+   }
+},
+ {
+   "trait": "gentle",
+   "description": "Kind and mild",
+   "bio": {
+      "group1": "Character treats others with patience and care rather than unnecessary force or aggression.",
+      "group2": "Character treats others with patience and care rather than unnecessary force or aggression."
+   }
+},
+ {
+   "trait": "good-natured",
+   "description": "Pleasant and easygoing",
+   "bio": {
+      "group1": "PRN1 maintain a pleasant attitude and are generally easy to be around.",
+      "group2": "PRN1 maintains a pleasant attitude and is generally easy to be around."
+   }
+},
+ {
+   "trait": "Gracious",
+   "description": "Kind and considerate",
+   "bio": {
+      "group1": "Character remains kind and considerate, even when dealing with difficult situations.",
+      "group2": "Character remains kind and considerate, even when dealing with difficult situations."
+   }
+},
+ {
+   "trait": "hardworking",
+   "description": "Puts in strong effort",
+   "bio": {
+      "group1": "PRN1 consistently put in strong effort and rarely avoid challenging work.",
+      "group2": "PRN1 consistently puts in strong effort and rarely avoids challenging work."
+   }
+},
+ {
+   "trait": "heroic",
+   "description": "Shows exceptional bravery",
+   "bio": {
+      "group1": "Character is willing to face significant risks when protecting others or doing what is right.",
+      "group2": "Character is willing to face significant risks when protecting others or doing what is right."
+   }
+},
+ {
+   "trait": "honest",
+   "description": "Tells the truth",
+   "bio": {
+      "group1": "PRN1 value truthfulness and rarely feel the need to hide PRN3 intentions.",
+      "group2": "PRN1 values truthfulness and rarely feels the need to hide PRN3 intentions."
+   }
+},
+ {
+   "trait": "honorable",
+   "description": "Acts with integrity",
+   "bio": {
+      "group1": "Character follows a strong personal code and strives to act with integrity.",
+      "group2": "Character follows a strong personal code and strives to act with integrity."
+   }
+},
+ {
+   "trait": "hospitable",
+   "description": "Welcomes guests warmly",
+   "bio": {
+      "group1": "PRN1 enjoy making others feel comfortable, welcomed, and included.",
+      "group2": "PRN1 enjoys making others feel comfortable, welcomed, and included."
+   }
+},
+ {
+   "trait": "humble",
+   "description": "Modest about achievements",
+   "bio": {
+      "group1": "Character recognizes PRN3 strengths without feeling the need to brag about them.",
+      "group2": "Character recognizes PRN3 strengths without feeling the need to brag about them."
+   }
+},
+ {
+   "trait": "humorous",
+   "description": "Enjoys making others laugh",
+   "bio": {
+      "group1": "PRN1 enjoy bringing laughter into conversations and helping others relax.",
+      "group2": "PRN1 enjoys bringing laughter into conversations and helping others relax."
+   }
+},
+ {
+   "trait": "incisive",
+   "description": "Gets to the point quickly",
+   "bio": {
+      "group1": "Character quickly identifies the heart of an issue and avoids unnecessary complications.",
+      "group2": "Character quickly identifies the heart of an issue and avoids unnecessary complications."
+   }
+},
+ {
+   "trait": "incorruptible",
+   "description": "Cannot be bribed or swayed",
+   "bio": {
+      "group1": "PRN1 remain true to PRN3 principles and cannot easily be pressured into wrongdoing.",
+      "group2": "PRN1 remains true to PRN3 principles and cannot easily be pressured into wrongdoing."
+   }
+},
+ {
+   "trait": "innovative",
+   "description": "Introduces new ideas",
+   "bio": {
+      "group1": "Character enjoys improving existing ideas and creating new ways to solve problems.",
+      "group2": "Character enjoys improving existing ideas and creating new ways to solve problems."
+   }
+},
+ {
+   "trait": "insightful",
+   "description": "Understands things deeply",
+   "bio": {
+      "group1": "PRN1 often understand deeper meanings and connections that escape other people.",
+      "group2": "PRN1 often understands deeper meanings and connections that escape other people."
+   }
+},
+ {
+   "trait": "inspiring",
+   "description": "Motivates others positively",
+   "bio": {
+      "group1": "Character motivates others through PRN3 actions, attitude, and determination.",
+      "group2": "Character motivates others through PRN3 actions, attitude, and determination."
+   }
+},
+ {
+   "trait": "intelligent",
+   "description": "Learns and thinks well",
+   "bio": {
+      "group1": "PRN1 learn quickly and make effective use of what PRN1 know.",
+      "group2": "PRN1 learns quickly and makes effective use of what PRN1 knows."
+   }
+},
+ {
+   "trait": "intuitive",
+   "description": "Understands without needing explanation",
+   "bio": {
+      "group1": "Character often grasps situations instinctively without needing extensive explanation.",
+      "group2": "Character often grasps situations instinctively without needing extensive explanation."
+   }
+},
+ {
+   "trait": "Inventive",
+   "description": "Creates clever new solutions",
+   "bio": {
+      "group1": "PRN1 enjoy creating clever solutions and finding possibilities others might miss.",
+      "group2": "PRN1 enjoys creating clever solutions and finding possibilities others might miss."
+   }
+},
+ {
+   "trait": "kind",
+   "description": "Shows kindness to others",
+   "bio": {
+      "group1": "Character consistently treats others with compassion, respect, and understanding.",
+      "group2": "Character consistently treats others with compassion, respect, and understanding."
+   }
+},
+ {
+   "trait": "knowledgeable",
+   "description": "Has lots of useful information",
+   "bio": {
+      "group1": "PRN1 possess a wide range of useful information and enjoy sharing what PRN1 know.",
+      "group2": "PRN1 possesses a wide range of useful information and enjoys sharing what PRN1 knows."
+   }
+},
+ {
+   "trait": "levelheaded",
+   "description": "Stays sensible under stress",
+   "bio": {
+      "group1": "Character remains sensible during stressful situations and avoids acting impulsively.",
+      "group2": "Character remains sensible during stressful situations and avoids acting impulsively."
+   }
+},
+ {
+   "trait": "logical",
+   "description": "Uses clear reasoning",
+   "bio": {
+      "group1": "PRN1 prefer decisions based on sound reasoning rather than emotional reactions alone.",
+      "group2": "PRN1 prefers decisions based on sound reasoning rather than emotional reactions alone."
+   }
+},
+ {
+   "trait": "loyal",
+   "description": "Stands by others faithfully",
+   "bio": {
+      "group1": "Character stays committed to the people and causes PRN1 care about.",
+      "group2": "Character stays committed to the people and causes PRN1 care about."
+   }
+},
+ {
+   "trait": "magnanimous",
+   "description": "Generous and forgiving",
+   "bio": {
+      "group1": "PRN1 are generous in both victory and conflict, rarely holding grudges.",
+      "group2": "PRN1 is generous in both victory and conflict, rarely holding grudges."
+   }
+},
+ {
+   "trait": "mature",
+   "description": "Acts responsibly and wisely",
+   "bio": {
+      "group1": "Character approaches responsibilities thoughtfully and handles challenges with wisdom.",
+      "group2": "Character approaches responsibilities thoughtfully and handles challenges with wisdom."
+   }
+},
+ {
+   "trait": "mellow",
+   "description": "Relaxed and easygoing",
+   "bio": {
+      "group1": "PRN1 have a relaxed presence that helps put others at ease.",
+      "group2": "PRN1 has a relaxed presence that helps put others at ease."
+   }
+},
+ {
+   "trait": "merciful",
+   "description": "Shows compassion and forgiveness",
+   "bio": {
+      "group1": "Character is often willing to forgive mistakes and offer second chances.",
+      "group2": "Character is often willing to forgive mistakes and offer second chances."
+   }
+},
+ {
+   "trait": "meticulous",
+   "description": "Very careful with details",
+   "bio": {
+      "group1": "PRN1 pay close attention to details and take pride in careful work.",
+      "group2": "PRN1 pays close attention to details and takes pride in careful work."
+   }
+},
+ {
+   "trait": "modest",
+   "description": "Does not boast",
+   "bio": {
+      "group1": "Character is unlikely to seek attention for PRN3 accomplishments despite PRN3 abilities.",
+      "group2": "Character is unlikely to seek attention for PRN3 accomplishments despite PRN3 abilities."
+   }
+},
+ {
+   "trait": "Motivated",
+   "description": "Driven to succeed",
+   "bio": {
+      "group1": "PRN1 maintain strong internal drive and rarely need outside pressure to keep moving forward.",
+      "group2": "PRN1 maintains strong internal drive and rarely needs outside pressure to keep moving forward."
+   }
+},
+ {
+   "trait": "natural leader",
+   "description": "Guides others naturally",
+   "bio": {
+      "group1": "Character naturally brings people together and often earns trust without needing to demand authority.",
+      "group2": "Character naturally brings people together and often earns trust without needing to demand authority."
+   }
+},
+ {
+   "trait": "neat",
+   "description": "Keeps things tidy",
+   "bio": {
+      "group1": "PRN1 prefer orderly surroundings and take pride in keeping PRN3 space organized.",
+      "group2": "PRN1 prefers orderly surroundings and takes pride in keeping PRN3 space organized."
+   }
+},
+ {
+   "trait": "Nurturing",
+   "description": "Helps others grow",
+   "bio": {
+      "group1": "Character invests time and energy into helping others grow, improve, and succeed.",
+      "group2": "Character invests time and energy into helping others grow, improve, and succeed."
+   }
+},
+ {
+   "trait": "objective",
+   "description": "Fair and unbiased",
+   "bio": {
+      "group1": "PRN1 evaluate situations fairly and try not to let personal bias cloud PRN3 judgment.",
+      "group2": "PRN1 evaluates situations fairly and tries not to let personal bias cloud PRN3 judgment."
+   }
+},
+ {
+   "trait": "observant",
+   "description": "Notices details others miss",
+   "bio": {
+      "group1": "Character notices subtle details that many people overlook and often catches important clues.",
+      "group2": "Character notices subtle details that many people overlook and often catches important clues."
+   }
+},
+ {
+   "trait": "open minded",
+   "description": "Willing to consider ideas",
+   "bio": {
+      "group1": "PRN1 are willing to consider unfamiliar ideas and rarely dismiss new perspectives outright.",
+      "group2": "PRN1 is willing to consider unfamiliar ideas and rarely dismisses new perspectives outright."
+   }
+},
+ {
+   "trait": "optimistic",
+   "description": "Expects positive outcomes",
+   "bio": {
+      "group1": "Character tends to focus on possibilities and believes challenges can be overcome.",
+      "group2": "Character tends to focus on possibilities and believes challenges can be overcome."
+   }
+},
+ {
+   "trait": "organized",
+   "description": "Keeps things in order",
+   "bio": {
+      "group1": "PRN1 keep track of responsibilities carefully and prefer having a clear plan.",
+      "group2": "PRN1 keeps track of responsibilities carefully and prefers having a clear plan."
+   }
+},
+ {
+   "trait": "outspoken",
+   "description": "Expresses opinions openly",
+   "bio": {
+      "group1": "Character shares PRN3 thoughts openly rather than keeping important opinions to PRN2selves.",
+      "group2": "Character shares PRN3 thoughts openly rather than keeping important opinions to PRN2self."
+   }
+},
+ {
+   "trait": "passionate",
+   "description": "Shows strong enthusiasm",
+   "bio": {
+      "group1": "PRN1 put genuine emotion and commitment into the things that matter most to PRN2.",
+      "group2": "PRN1 puts genuine emotion and commitment into the things that matter most to PRN2."
+   }
+},
+ {
+   "trait": "patient",
+   "description": "Waits calmly",
+   "bio": {
+      "group1": "Character remains calm when progress is slow and understands that good results take time.",
+      "group2": "Character remains calm when progress is slow and understands that good results take time."
+   }
+},
+ {
+   "trait": "peaceful",
+   "description": "Avoids conflict and tension",
+   "bio": {
+      "group1": "PRN1 prefer resolving disagreements calmly and rarely seek conflict for its own sake.",
+      "group2": "PRN1 prefers resolving disagreements calmly and rarely seeks conflict for its own sake."
+   }
+},
+ {
+   "trait": "perceptive",
+   "description": "Quickly understands situations",
+   "bio": {
+      "group1": "Character quickly understands people, situations, and motivations beneath the surface.",
+      "group2": "Character quickly understands people, situations, and motivations beneath the surface."
+   }
+},
+ {
+   "trait": "Persistent",
+   "description": "Keeps trying despite obstacles",
+   "bio": {
+      "group1": "PRN1 continue working toward PRN3 goals even after experiencing setbacks or disappointment.",
+      "group2": "PRN1 continues working toward PRN3 goals even after experiencing setbacks or disappointment."
+   }
+},
+ {
+   "trait": "persuasive",
+   "description": "Influences others effectively",
+   "bio": {
+      "group1": "Character presents ideas convincingly and often helps others see a different perspective.",
+      "group2": "Character presents ideas convincingly and often helps others see a different perspective."
+   }
+},
+ {
+   "trait": "polite",
+   "description": "Uses good manners",
+   "bio": {
+      "group1": "PRN1 consistently show consideration and good manners when interacting with others.",
+      "group2": "PRN1 consistently shows consideration and good manners when interacting with others."
+   }
+},
+ {
+   "trait": "popular",
+   "description": "Well-liked by many",
+   "bio": {
+      "group1": "Character is generally well-liked and tends to form positive connections with many people.",
+      "group2": "Character is generally well-liked and tends to form positive connections with many people."
+   }
+},
+ {
+   "trait": "practical",
+   "description": "Focuses on useful solutions",
+   "bio": {
+      "group1": "PRN1 focus on solutions that work in the real world rather than unrealistic ideals.",
+      "group2": "PRN1 focuses on solutions that work in the real world rather than unrealistic ideals."
+   }
+},
+ {
+   "trait": "precise",
+   "description": "Accurate and exact",
+   "bio": {
+      "group1": "Character values accuracy and strives to communicate or work with great care.",
+      "group2": "Character values accuracy and strives to communicate or work with great care."
+   }
+},
+ {
+   "trait": "prepared",
+   "description": "Ready for situations",
+   "bio": {
+      "group1": "PRN1 like to think ahead and rarely find PRN2selves caught completely off guard.",
+      "group2": "PRN1 likes to think ahead and rarely finds PRN2self caught completely off guard."
+   }
+},
+ {
+   "trait": "principled",
+   "description": "Guided by strong values",
+   "bio": {
+      "group1": "Character stays true to PRN3 values even when doing so is difficult or inconvenient.",
+      "group2": "Character stays true to PRN3 values even when doing so is difficult or inconvenient."
+   }
+},
+ {
+   "trait": "proactive",
+   "description": "Acts before problems arise",
+   "bio": {
+      "group1": "PRN1 take initiative early instead of waiting for problems to become larger.",
+      "group2": "PRN1 takes initiative early instead of waiting for problems to become larger."
+   }
+},
+ {
+   "trait": "profound",
+   "description": "Deep in thought or meaning",
+   "bio": {
+      "group1": "Character often reflects on deeper meanings and enjoys exploring important ideas.",
+      "group2": "Character often reflects on deeper meanings and enjoys exploring important ideas."
+   }
+},
+ {
+   "trait": "progressive",
+   "description": "Open to positive change",
+   "bio": {
+      "group1": "PRN1 are open to improvement and willingly embrace positive changes when needed.",
+      "group2": "PRN1 is open to improvement and willingly embraces positive changes when needed."
+   }
+},
+ {
+   "trait": "prudent",
+   "description": "Makes wise decisions",
+   "bio": {
+      "group1": "Character thinks carefully before acting and avoids unnecessary risks.",
+      "group2": "Character thinks carefully before acting and avoids unnecessary risks."
+   }
+},
+ {
+   "trait": "purposeful",
+   "description": "Acts with clear intent",
+   "bio": {
+      "group1": "Character approaches life with clear intentions and rarely acts without a reason.",
+      "group2": "Character approaches life with clear intentions and rarely acts without a reason."
+   }
+},
+ {
+   "trait": "rational",
+   "description": "Uses reason over emotion",
+   "bio": {
+      "group1": "PRN1 rely on logic and evidence when making important decisions.",
+      "group2": "PRN1 relies on logic and evidence when making important decisions."
+   }
+},
+ {
+   "trait": "realistic",
+   "description": "Sees things as they are",
+   "bio": {
+      "group1": "Character sees situations as PRN1 are and avoids wishful thinking.",
+      "group2": "Character sees situations as PRN1 are and avoids wishful thinking."
+   }
+},
+ {
+   "trait": "reflective",
+   "description": "Thinks carefully about experiences",
+   "bio": {
+      "group1": "PRN1 regularly examine PRN3 experiences and look for lessons PRN1 can learn from them.",
+      "group2": "PRN1 regularly examines PRN3 experiences and looks for lessons PRN1 can learn from them."
+   }
+},
+ {
+   "trait": "reliable",
+   "description": "Consistently dependable",
+   "bio": {
+      "group1": "Character follows through on commitments and can be trusted to do what PRN1 promise.",
+      "group2": "Character follows through on commitments and can be trusted to do what PRN1 promise."
+   }
+},
+ {
+   "trait": "resilient",
+   "description": "Recovers quickly from setbacks",
+   "bio": {
+      "group1": "PRN1 recover from setbacks with determination and continue moving forward.",
+      "group2": "PRN1 recovers from setbacks with determination and continues moving forward."
+   }
+},
+ {
+   "trait": "resolute",
+   "description": "Firm in decisions",
+   "bio": {
+      "group1": "Character remains firm in important decisions and does not give up easily.",
+      "group2": "Character remains firm in important decisions and does not give up easily."
+   }
+},
+ {
+   "trait": "resourceful",
+   "description": "Finds clever solutions",
+   "bio": {
+      "group1": "PRN1 find creative ways to solve problems, even when resources are limited.",
+      "group2": "PRN1 finds creative ways to solve problems, even when resources are limited."
+   }
+},
+ {
+   "trait": "respectful",
+   "description": "Shows consideration for others",
+   "bio": {
+      "group1": "Character treats people with dignity regardless of status, background, or opinion.",
+      "group2": "Character treats people with dignity regardless of status, background, or opinion."
+   }
+},
+ {
+   "trait": "responsible",
+   "description": "Meets duties and obligations",
+   "bio": {
+      "group1": "PRN1 take PRN3 duties seriously and follow through on what is expected of PRN2.",
+      "group2": "PRN1 takes PRN3 duties seriously and follows through on what is expected of PRN2."
+   }
+},
+ {
+   "trait": "scrupulous",
+   "description": "Careful to do right",
+   "bio": {
+      "group1": "Character makes a strong effort to act honestly and do the right thing.",
+      "group2": "Character makes a strong effort to act honestly and do the right thing."
+   }
+},
+ {
+   "trait": "Selfless",
+   "description": "Puts others first",
+   "bio": {
+      "group1": "PRN1 frequently put the needs of others ahead of PRN3 own comfort or convenience.",
+      "group2": "PRN1 frequently puts the needs of others ahead of PRN3 own comfort or convenience."
+   }
+},
+ {
+   "trait": "shrewd",
+   "description": "Makes smart judgments",
+   "bio": {
+      "group1": "Character recognizes opportunities quickly and often makes sound judgments.",
+      "group2": "Character recognizes opportunities quickly and often makes sound judgments."
+   }
+},
+ {
+   "trait": "Sincere",
+   "description": "Honest and genuine",
+   "bio": {
+      "group1": "PRN1 express PRN3 thoughts and feelings honestly without hidden motives.",
+      "group2": "PRN1 expresses PRN3 thoughts and feelings honestly without hidden motives."
+   }
+},
+ {
+   "trait": "solid",
+   "description": "Reliable and dependable",
+   "bio": {
+      "group1": "Character provides a dependable presence that others feel comfortable relying upon.",
+      "group2": "Character provides a dependable presence that others feel comfortable relying upon."
+   }
+},
+ {
+   "trait": "sophisticated",
+   "description": "Refined and knowledgeable",
+   "bio": {
+      "group1": "PRN1 possess a refined understanding of people, ideas, and social situations.",
+      "group2": "PRN1 possesses a refined understanding of people, ideas, and social situations."
+   }
+},
+ {
+   "trait": "stable",
+   "description": "Steady and dependable",
+   "bio": {
+      "group1": "Character remains emotionally steady and dependable through changing circumstances.",
+      "group2": "Character remains emotionally steady and dependable through changing circumstances."
+   }
+},
+ {
+   "trait": "steadfast",
+   "description": "Remains loyal and committed",
+   "bio": {
+      "group1": "PRN1 stay committed to PRN3 beliefs, goals, and relationships over the long term.",
+      "group2": "PRN1 stays committed to PRN3 beliefs, goals, and relationships over the long term."
+   }
+},
+ {
+   "trait": "suave",
+   "description": "Smooth and confident",
+   "bio": {
+      "group1": "Character carries PRN2selves with confidence, charm, and social grace.",
+      "group2": "Character carries PRN2self with confidence, charm, and social grace."
+   }
+},
+ {
+   "trait": "Supportive",
+   "description": "Offers help and encouragement",
+   "bio": {
+      "group1": "PRN1 encourage others during difficult moments and celebrate their successes.",
+      "group2": "PRN1 encourages others during difficult moments and celebrates their successes."
+   }
+},
+ {
+   "trait": "sweet",
+   "description": "Kind and pleasant",
+   "bio": {
+      "group1": "Character is consistently kindhearted and often leaves people feeling appreciated.",
+      "group2": "Character is consistently kindhearted and often leaves people feeling appreciated."
+   }
+},
+ {
+   "trait": "Tactful",
+   "description": "Handles situations thoughtfully",
+   "bio": {
+      "group1": "PRN1 communicate sensitive thoughts carefully while minimizing unnecessary hurt feelings.",
+      "group2": "PRN1 communicates sensitive thoughts carefully while minimizing unnecessary hurt feelings."
+   }
+},
+ {
+   "trait": "tenacious",
+   "description": "Does not give up",
+   "bio": {
+      "group1": "Character refuses to quit easily and continues working until goals are achieved.",
+      "group2": "Character refuses to quit easily and continues working until goals are achieved."
+   }
+},
+ {
+   "trait": "Trustworthy",
+   "description": "Deserving of trust",
+   "bio": {
+      "group1": "Character earns confidence through consistent honesty, reliability, and good intentions.",
+      "group2": "Character earns confidence through consistent honesty, reliability, and good intentions."
+   }
+},
+ {
+   "trait": "Understanding",
+   "description": "Shows empathy and patience",
+   "bio": {
+      "group1": "Character makes an effort to see situations from other people's perspectives and responds with patience instead of quick judgment.",
+      "group2": "Character makes an effort to see situations from other people's perspectives and responds with patience instead of quick judgment."
+   }
+},
+ {
+   "trait": "Versatile",
+   "description": "Good in many situations",
+   "bio": {
+      "group1": "PRN1 adapt PRN3 skills to different challenges and remain effective in a wide variety of situations.",
+      "group2": "PRN1 adapts PRN3 skills to different challenges and remains effective in a wide variety of situations."
+   }
+},
+ {
+   "trait": "visionary",
+   "description": "Sees future possibilities",
+   "bio": {
+      "group1": "Character looks beyond immediate circumstances and often imagines possibilities that others have yet to consider.",
+      "group2": "Character looks beyond immediate circumstances and often imagines possibilities that others have yet to consider."
+   }
+},
+ {
+   "trait": "Welcoming",
+   "description": "Makes others feel included",
+   "bio": {
+      "group1": "PRN1 go out of PRN3 way to help people feel included, comfortable, and accepted.",
+      "group2": "PRN1 goes out of PRN3 way to help people feel included, comfortable, and accepted."
+   }
+},
+ {
+   "trait": "wise",
+   "description": "Shows good judgment",
+   "bio": {
+      "group1": "Character combines knowledge, experience, and good judgment when making important decisions.",
+      "group2": "Character combines knowledge, experience, and good judgment when making important decisions."
+   }
+}
+]
